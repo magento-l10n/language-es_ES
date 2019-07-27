@@ -1177,6 +1177,7 @@ expires,expira
 "Credit Card Information","Información de tarjeta de crédito"
 "Save for later use.","Guardar para su uso posterior."
 "This payment is not available","Este pago no está disponible"
+YY,AA
 "Please try again with another form of payment.","Por favor, inténtelo de nuevo con otra forma de pago."
 "Sorry, but something went wrong.","Lo sentimos, pero algo salió mal."
 "Payment ","Pago "
@@ -2405,6 +2406,7 @@ End,Fin
 "'category_id' only supports 'eq' condition type.","'category_id' sólo admite la condición de tipo 'eq'."
 "Cannot resolve layered filter type","No se puede resolver el tipo de filtro en capas"
 "Cannot resolve type","No se puede resolver el tipo"
+"Category doesn't exist","La categoría no existe"
 """image_type"" value should be specified","Se debe especificar el valor para ""image_type"""
 "currentPage value %1 specified is greater than the %2 page(s) available.","el valor %1 de currentPage especificado es mayor que el %2 de página(s) disponibles."
 "There are no product types available for export.","No hay ningún tipo de producto disponible para la exportación."
@@ -2428,7 +2430,7 @@ End,Fin
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Modelo de tipo de entidad debe ser una instancia de \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType"
 "Entity type model must be an instance of '%1'","El tipo de modelo de entidad debe ser una instancia de '%1'"
 "Disallowed file type.","Tipo de archivo no aceptado."
-"Invalid Stock data for insert","Datos de valores no válidos para insertar"
+"Invalid Stock data for insert","Datos de stock no válidos para insertar"
 "Minimum Qty","Cantidad Mínima"
 "Add Minimum Qty","Añadir cantidad mínima"
 "Could not rebuild index for empty products array","No se pudo reconstruir el índice de una matriz de productos vacía"
@@ -3075,6 +3077,7 @@ Duplicated,Duplicado
 "Add New Role","Añadir Nuevo Cargo"
 "Edit Role","Editar Rol"
 "Roles and Permissions","Roles y Permisos"
+"The tree retrieved successfully.","El árbol se ha recuperado correctamente."
 "The item was successfully moved.","El item se ha movido con éxito."
 "The team was successfully deleted.","El equipo fue eliminado exitosamente."
 "The team was successfully updated.","El equipo fue actualizado exitosamente."
@@ -3722,6 +3725,8 @@ save,guardar
 "Use HTTP Only","Utilizar sólo HTTP"
 "Cookie Restriction Mode","Modo restrictivo de la cookie"
 "<strong style=""color:red"">Warning</strong>:  Do not set to ""No"". User security could be compromised.","<strong style=""color:red"">Advertencia</strong>:  No establecer ""No"". La seguridad del usuario puede verse comprometida."
+"'Invalid domain name: ' .","'Nombre de dominio inválido: ' ."
+"'Invalid cookie lifetime: ' .","«Tiempo de vida de cookie inválido: »."
 "We can't save the cron expression.","No podemos guardar la expresión cron."
 Daily,Diario
 Weekly,Semanal
@@ -7580,7 +7585,17 @@ Vendor,Vendedor
                             de crédito PayPal&#174;. Sus clientes tienen más tiempo para pagar, mientras tu cobras por adelantado – sin costo adicional para usted.
                            El banners de uso gratuito PayPal que anuncian crédito PayPal&#174; financiación como opción de pago cuando sus clientes pagan con PayPal.
                             El programa de publicidad de PayPal ha demostrado generar compras adicionales así como un aumento en la compra media del consumidor hasta un 15%. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">ver detalles</a>."
+Gold,Oro
+Blue,Azul
+Silver,Plata
+Black,Negro
 Large,Grande
+Responsive,Responsivo
+Pay,Pagar
+"Buy Now","Comprar ahora"
+Installment,Entrega
+"PayPal Credit","Crédito PayPal"
+Features,Características
 "Not you?","¿No es Usted?"
 "Your shopping cart has been updated with new prices.","Su carro de compras se ha actualizado con nuevos precios."
 "Welcome, %1!","¡ Bienvenido %1!"
@@ -8280,6 +8295,7 @@ undefined,"no definido"
 "Product %1 has been added to the requisition list %2.","El producto %1 se ha agregado a la Lista de Requisitos %2."
 "Options were updated. Please review available configurations.","Las opciones fueron actualizadas. Por favor revise las configuraciones disponibles."
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","No se pueden guardar la Lista de Requisitos. Se superó el número máximo de listas."
+"Warning message.","Mensaje de advertencia."
 "Could not save","No se pueden guardar"
 "Add to Requisition List","Añadir a la lista de Reposición"
 "Update Requisition List","Actualizar Lista de Reposición"
