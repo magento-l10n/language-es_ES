@@ -2808,6 +2808,7 @@ Payment,Pago
 "Cart contains virtual product(s) only. Shipping address is not applicable.","La cesta contiene únicamente producto(s) virtuales. La dirección de envío no es aplicable."
 "Wrong minimum amount.","Cantidad mínima errónea."
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimir recibo</a>"
+"Forgot Password","Olvidé la contraseña"
 item,artículo
 items,artículos
 "Go to Checkout","Ir a pagar"
@@ -2826,6 +2827,7 @@ items,artículos
 of,de
 "Something went wrong while saving the page. Please refresh the page and try again.","Algo salió mal al guardar la página. Actualiza la página y vuelve a intentarlo."
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Ha agregado %1 al <a href=""%2"">carrito de compras</a>."
+"Please select at least one product to add to cart","Por favor, seleccione al menos un producto para añadir al carrito"
 "The quote item isn't found. Verify the item and try again.","La oración no es encontrada. Verificar e intentar de nuevo."
 "The product wasn't found. Verify the product and try again.","El producto no fue encontrado. Verifique el producto y vuelva a intentarlo."
 "The shipping address is missing. Set the address and try again.","Falta la dirección de envío. Establece la dirección y vuelve a intentarlo."
@@ -9572,6 +9574,8 @@ Se aplica un límite de uso únicamente para los usuarios que inician sesión.
 "Coupons Information","Información sobre cupones"
 "If you select and save the rule you will be able to generate multiple coupon codes.","Si selecciona y guarda esta norma, podrá generar múltiples códigos de cupones."
 "Usage limit enforced for logged in customers only.","Límite de uso aplicado sólo a clientes que iniciaron sesión."
+"Your coupon was successfully removed","Su cupón fue eliminado correcctamente"
+"Your coupon was successfully applied","Su cupón se aplicó correctamente"
 "
                         If you select and save the rule you will be able to generate multiple coupon codes.
                     ","                         Si seleccionar y guardar la regla que será capaz de generar múltiples códigos de cupón.                     "
@@ -10906,6 +10910,7 @@ ui/grid/filters/elements/select,ui/cuadrícula/filtros/elementos/seleccionar
 "First character must be letter.","El primer carácter debe ser una letra."
 "If enabled, can be used by functional tests for extended reporting","Si está habilitado, puede ser utilizado por pruebas funcionales para reportes ampliados"
 "Use this key to retrieve collected js errors","Utilice esta tecla para recuperar errores recogidos js"
+"The file upload field is disabled.","El campo de subida de archivos está deshabilitado."
 "No marginal white space please","Sin espacio en blanco por favor"
 "Please enter a valid percentage discount value greater than 0.","Por favor, introduzca un valor de descuento porcentual válido mayor que 0."
 "Please enter a value less than or equal to %s.","Por favor, introduzca un valor menor o igual a %s."
