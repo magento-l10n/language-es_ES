@@ -3025,11 +3025,10 @@ Keywords,"Palabras clave"
 "Default Page Layout","Plantilla de página por defecto"
 """identifiers"" of CMS blocks should be specified","Se deben especificar ""identificadores"" de los bloques de CMS"
 """Page id should be specified","""Id de la página debe ser especificado"
-"This block no longer exists.","Dieser Block existiert nicht mehr."
-"Block Title",Blocktitel
+"Block Title","Título de bloque"
 "The block will be removed from the update and all scheduled changes will be lost.","El bloque se eliminará de la actualización y se perderán todos los cambios programados."
 "Remove CMS page from Update","Eliminar la página CMS de la Actualización"
-"Page Title",Seitentitel
+"Content Heading","Título de contenido"
 "The page will be removed from the update and all scheduled changes will be lost.","La página se eliminará de la actualización y todos los cambios programados se perderán."
 "CMS Pages","Páginas CMS"
 "CMS Blocks","Bloques CMS"
@@ -11875,7 +11874,7 @@ Captured,Capturado
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Horario de atención:<br /><span class=""no-link"">%store_hours</span>."
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si tienes alguna duda acerca de tu pedido, puede enviarnos un email a <a href=""mailto:%store_email"">%store_email</a>."
 "About Us","Acerca de nosotros"
-"Backup options","Opciones de copia de seguridad"
+"Backup options","Opciones de backup"
 Warning,Advertencia
 "Insert Widget...","Insertar aplicación..."
 "Recent items","Elementos recientes"
