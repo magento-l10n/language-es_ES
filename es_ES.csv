@@ -1332,6 +1332,8 @@ Fixed,Fijo
 "Could not save child: ""%1""","No se puede guardar subproducto: ""%1"""
 "Product with specified sku: ""%1"" does not contain option: ""%2""","Artículo con determinado sku: ""%1"" no contiene la opción: ""%2"""
 "Child with specified sku: ""%1"" already assigned to product: ""%2""","Subproducto con el sku especificado: ""%1"" ya asignado al producto: ""%2"""
+"The option couldn't be saved.","La opción no pudo guardarse."
+"""%fieldName"" is required. Enter and try again.","Se requiere ""%fieldName"". Introdúzcalo y vuelva a intentarlo."
 "Price Range","Rango de precios"
 "As Low as","Tan bajo como"
 Together,Juntos
@@ -1392,6 +1394,7 @@ Message:,Mensaje:
 "Qty Shipped","Cantidad enviada"
 "Add Products to New Option","Añadir artículos a la nueva opción"
 "Add Products to Option ""%1""","Añadir artículos a la opción ""%1"""
+"Special Price","Precio especial"
 """option_id"" and ""parent_id"" values should be specified","deben especificarse los valores ""option_id"" y ""parent_id"""
 """sku"" value should be specified","Se debe especificar el valor ""sku"""
 Always,Siempre
@@ -1850,7 +1853,6 @@ Role,Cargo
 "start typing to search attribute","comienza a escribir para buscar atributo"
 "Basic Settings","Ajustes básicas"
 "Advanced Settings","Configuración avanzada"
-"Special Price","Precio especial"
 "Buy %1 for: ","Compra %1 por: "
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Comprar %1 por %2 cada uno y <strong class=""benefit"">ahorra <span class=""percent tier-%3""> %4</span>%</strong>"
 "Buy %1 for %2 each","Comprar %1 por %2 cada uno"
