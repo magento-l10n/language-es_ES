@@ -2025,6 +2025,7 @@ Anchor,Ancla
 "Layered Navigation Price Step","Escalón de precio de la navegación por capas"
 "URL Key","Clave URL"
 "Meta Title","Meta Título"
+"Meta Keywords","Meta Palabras clave"
 "Meta Description","Meta Descripción"
 "Products in Category","Productos en la categoría"
 Theme,Plantilla
@@ -2308,7 +2309,6 @@ Preview,"Vista previa"
 "Sort Products By","Ordenar los productos por"
 "Default Product Sorting","Ordenado de productos predeterminado"
 "Meta Title","Título Meta"
-"Meta Keywords",Meta-Schlüsselwörter
 "Meta Description",Meta-Beschreibung
 "Use Parent Category Settings","Utilizar ajustes de la categoría padre"
 "New Theme","Nuevo tema"
