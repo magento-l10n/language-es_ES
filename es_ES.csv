@@ -3491,7 +3491,7 @@ Newsletters,"Boletines informativos"
 Email:,"Correo electrónico:"
 Password:,Contraseña:
 "Password you set when creating account","Contraseña que ingresaste al crear la cuenta"
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Haga clic <a href=""%reset_url""> aquí</a> para restablecerla."
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidaste la contraseña de tu cuenta? Haz clic <a href=""%reset_url"">aquí</a> para restablecerla."
 "Proceed through checkout faster","Procede a través del checkout más rápido"
 "Check the status of orders","Compruebe el estado de los pedidos"
 "View past orders","Ver órdenes anteriores"
@@ -8962,6 +8962,7 @@ Scope:,Alcance:
 Page,Página
 "You're currently reading page","Actualmente estás leyendo página"
 WK,semana
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","¿Olvidó la contraseña de su cuenta? Haga clic <a href=""%reset_url""> aquí</a> para restablecerla."
 "We don't recognize this file extension.","No reconocemos esta extensión de archivo."
 "1 column","1 columna"
 "Default welcome msg!","¡Mensaje de bienvenida predeterminado!"
@@ -9759,7 +9760,9 @@ Captured,Capturado
 "Please ","Por favor "
 "continue shopping","Continuar comprando"
 "Transaction has been canceled","La transacción ha sido cancelada"
-"Quick Checkout","Checkout rápido"
+"When you sign in to your account, you will be able to:","Cuando inicies sesión en tu cuenta, podrás:"
+"Quick Checkout","Pago rápido"
+"Proceed through checkout faster","Proceder con el proceso de pago más rápido"
 "Store alternative addresses","Almacena direcciones alternativas"
 "For shipping to multiple family members and friends","Para envío a varios miembros de la familia y amigos"
 "If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Si tienes alguna duda acerca de tu pedido, puede enviarnos un email a <a href=""mailto:%store_email"">%store_email</a>."
