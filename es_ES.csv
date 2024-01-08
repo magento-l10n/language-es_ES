@@ -1844,7 +1844,7 @@ Role,Cargo
 "Hide from Product Page","Ocultar de la página de producto"
 "Allow Multiple Boxes for Shipping","Permitir varios paquetes para envío"
 "start typing to search attribute","comienza a escribir para buscar atributo"
-"Basic Settings","Ajustes básicas"
+"Basic Settings","Ajustes básicos"
 "Advanced Settings","Configuración avanzada"
 "Buy %1 for: ","Compra %1 por: "
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Comprar %1 por %2 cada uno y <strong class=""benefit"">ahorra <span class=""percent tier-%3""> %4</span>%</strong>"
@@ -1855,7 +1855,7 @@ Role,Cargo
 "Print This Page","Imprimir esta página"
 "Remove Product","Eliminar artículo"
 "Add to Wish List","Añadir a la Lista de Deseos"
-"You have no items to compare.","No tiene ningún artículo para comparar."
+"You have no items to compare.","No tienes ningún artículo para comparar."
 "Remove This Item","Eliminar este artículo"
 Compare,Comparar
 "Clear All","Eliminar todo"
@@ -1876,7 +1876,7 @@ Show,Mostrar
 "Set Descending Direction","Fijar Dirección Descendente"
 "View as","Ver como"
 "More Information","Más Información"
-"We don't recognize or support this file extension type.","No reconocemos o soportamos este tipo de extensión de archivo."
+"We don't recognize or support this file extension type.","No reconocemos ni permitimos este tipo de extensión de archivo."
 "Configure Product","Configurar artículo"
 OK,Aceptar
 "Select type of option.","Seleccione el tipo de opción."
