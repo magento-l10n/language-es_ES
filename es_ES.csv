@@ -2068,6 +2068,7 @@ Overview,"Vista general"
 "Watermark Opacity, Percent","Opacidad de la marca de agua, porcentaje"
 Watermark,"Marca de agua"
 "Watermark Position","Posición de la marca de agua"
+none,ninguno
 from,"a partir de"
 to,hasta
 "You added product %1 to the <a href=""%2"">comparison list</a>.","Había añadido el producto %1 a la <a href=""%2"">lista de comparación</a>."
@@ -4068,7 +4069,7 @@ Documents,Documentos
 "Enabled for Checkout","Habilitado para el proceso de pago"
 "Access ID","ID de acceso"
 "Account Number","Número de cuenta"
-"Calculate Handling Fee","Calcular el gastos de envío"
+"Calculate Handling Fee","Calcular los gastos de envío"
 "Handling Applied","Gastos de tramitación aplicados"
 """Per Order"" allows a single handling fee for the entire order. ""Per Package"" allows an individual handling fee for each package.","""Por Pedido"" permite una única tarifa de gastos de manipulación para todo el pedido. ""Por Paquete"" permite una tarifa de gastos de gestión individual para cada paquete."
 "Handling Fee","Gastos de tramitación"
@@ -4076,6 +4077,7 @@ Documents,Documentos
 "Select this to allow DHL to optimize shipping charges by splitting the order if it exceeds 70 kg.","Seleccione esta opción para permitir a DHL optimizar gastos de envío mediante la división del pedido si excede %1 %2."
 "Weight Unit","Unidad de peso"
 Size,Tamaño
+"Allowed Methods","Métodos permitidos"
 "Displayed Error Message","Mensaje de error mostrado"
 "Free Method","Método gratuito"
 "Enable Free Shipping Threshold","Habilitar umbral para envío gratuito"
@@ -4389,8 +4391,8 @@ Key,Clave
 Packaging,Embalaje
 Dropoff,"De entrega"
 "Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Peso máximo del paquete (Por favor, consulte a su transportista para la carga máxima soportada)"
+"Calculate Handling Fee","Calcular el gastos de envío"
 "Residential Delivery","Entrega residencial"
-"Allowed Methods","Métodos permitidos"
 "Hub ID","ID de hub"
 "The field is applicable if the Smart Post method is selected.","El campo es aplicable si se selecciona el método de publicación inteligente."
 "Gift Card Information","Información de la tarjeta regalo"
@@ -6447,6 +6449,7 @@ Blue,Azul
 Silver,Plata
 Black,Negro
 Rectangle,Rectángulo
+Large,Grande
 Pay,Pagar
 "Buy Now","Comprar ahora"
 Installment,Entrega
@@ -9468,12 +9471,12 @@ Parcel,Paquete
 "Legal Flat-Rate Envelope","Sobre oficio tarifa plana"
 "Padded Flat-Rate Envelope","Sobre acolchado de tarifa plana"
 Non-rectangular,"No rectangular"
-Large,Grande
 "Service type does not match","El tipo de servicio no coincide"
 Merchandise,Mercancía
 Gift,Regalo
-"Secure Gateway URL","URL de Gateway seguro"
+"Secure Gateway URL","URL de pasarela segura"
 Machinable,Manufacturable
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Peso máximo del paquete (Por favor, consulta a tu transportista para la carga máxima permitida)"
 "Add New Variable","Agregar nueva variable"
 "Custom Variable ""%1""","Variable personalizada ""%1"""
 "New Custom Variable","Nueva variable personalizada"
