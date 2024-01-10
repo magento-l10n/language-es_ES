@@ -661,7 +661,7 @@ Minute,Minuto
 "Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor, confirma el cambio de ámbito. Todos los datos que no se hayan guardado se perderán."
 "Additional Cache Management","Gestión de memoria caché adicional"
 "Flush Catalog Images Cache","Vaciar memoria caché de imágenes del catálogo"
-"Pregenerated product images files","Archivos de imágenes del producto regenerado"
+"Pregenerated product images files","Archivos de imágenes de productos pregenerados"
 "Flush JavaScript/CSS Cache","Borrar Memoria Cache de JavaScript/CSS"
 "Themes JavaScript and CSS files combined to one file","Temas JavaScript y CSS archivos combinados a un archivo"
 "Flush Static Files Cache","Borrar Memoria Caché de Archivos Estáticos"
@@ -720,7 +720,7 @@ Currency,Moneda
 Communications,Comunicaciones
 Services,Servicios
 Advanced,"Opciones avanzadas"
-"Disable Modules Output","Deshabilitar salida de módulos"
+"Disable Modules Output","Inhabilitar salida de módulos"
 "Store Email Addresses","Direcciones de correo electrónico de la tienda"
 "Custom Email 1","Correo electrónico personalizado 1"
 "Sender Email","Correo electrónico del remitente"
@@ -728,16 +728,20 @@ Advanced,"Opciones avanzadas"
 "Custom Email 2","Correo electrónico personalizado 2"
 "General Contact","Contacto general"
 "Sales Representative","Representante de ventas"
-"Customer Support","Soporte al cliente"
+"Customer Support","Atención al cliente"
 Developer,Desarrollador
+"Enabled Template Path Hints for Storefront","Indicaciones de rutas de plantillas habilitadas para la tienda"
+"Enabled Template Path Hints for Admin","Indicaciones de rutas de plantillas habilitadas para la administración"
+"Add Block Names to Hints","Añadir nombres de bloques a las indicaciones"
 "Template Settings","Configuración de la Plantilla"
 "Allow Symlinks","Permitir enlaces simbólicos"
+"Warning! Enabling this feature is not recommended on production environments because it represents a potential security risk.","¡Advertencia! No se recomienda activar esta función en entornos de producción porque representa un riesgo potencial de seguridad."
 "Minify Html","Minificar Html"
 "Minification is not applied in developer mode.","Minificación no se aplica en en el modo de desarrollador."
 "Translate Inline","Traducir en línea"
 "Enabled for Storefront","Habilitado para el Escaparate"
 "Enabled for Admin","Habilitado para el Administrador"
-"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Traducir, bloques y otras memorias cache de salida deben estar deshabilitados para las traducciones en línea de la tienda y administración."
+"Translate, blocks and other output caches should be disabled for both Storefront and Admin inline translations.","Traducir, bloques y otras memorias caché de salida deben estar inhabilitadas para las traducciones en línea de la tienda y administración."
 "JavaScript Settings","Configuración de JavaScript"
 "Merge JavaScript Files","Combinar archivos de JavaScript"
 "Enable JavaScript Bundling","Activar agrupación de JavaScript"
@@ -861,6 +865,12 @@ Pagination,Paginación
 "You need more permissions to access this.","Necesitas más permisos para acceder a esto."
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. Todos los derechos reservados."
 "Report Bugs","Informar de errores"
+"Themes JavaScript and CSS files combined to one file.","Archivos JavaScript y CSS de los temas combinados en un solo archivo."
+"Design Theme","Tema del diseño"
+"User-Agent Exceptions","Excepciones del agente de usuario"
+"Search strings are either normal strings or regular exceptions (PCRE). They are matched in the same order as entered. Examples:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>","Las cadenas de búsqueda son cadenas normales o expresiones regulares (PCRE). Se procesan en el mismo orden que se han introducido. Ejemplos:<br /><span style=""font-family:monospace"">Firefox<br />/^mozilla/i</span>"
+"Find a string in client user-agent header and switch to specific design theme for that browser.","Encuentra una cadena en la cabecera del agente de usuario del cliente y cambia al tema de diseño específico para ese navegador."
+"Enable Javascript Bundling","Activar agrupación de JavaScript"
 "Page not found.","Página no encontrada."
 "Add Block Class Type to Hints","Añadir el tipo de clase del bloque a las sugerencias"
 "When the adapter was changed, please flush Catalog Images Cache.","Cuando cambie el adaptador, por favor, vacíe la caché de imágenes del catálogo."
@@ -960,7 +970,6 @@ Rollback,Wiederherstellung
 Frequency,Frecuencia
 "Maintenance Mode","Modo de mantenimiento"
 "Are you sure you want to delete the selected backup(s)?","¿Está seguro de que quiere eliminar la(s) copia(s) de seguridad seleccionada(s)?"
-Time,Zeit
 Size(bytes),Tamaño(bytes)
 Type,Tipo
 Download,Descarga
@@ -3088,7 +3097,6 @@ Operation,Operación
 Add,Agregar
 "Delete File","Eliminar archivo"
 "Search String","Cadena de búsqueda"
-"Design Theme","Tema del diseño"
 "Add \Exception","Añadir \Exception"
 "-- No Theme --","-- Sin tema --"
 "%1 should implement %2","%1 debe implementar %2"
@@ -3215,7 +3223,6 @@ Options,Opciones
 "Apply single set of images to all SKUs","Aplicar un solo conjunto de imágenes a todos los SKU"
 "Apply unique images by attribute to each SKU","Aplicar imágenes únicas por atributo a cada SKU"
 "Skip image uploading at this time","Omitir subir imagen en esta ocasión"
-"Browse Files...","Examinar Archivos..."
 "Remove image","Quitar imagen"
 "Select attribute","Seleccione el atributo"
 Select,Seleccionar
@@ -8584,7 +8591,6 @@ Test,Prueba
 "This action is unavailable","Esta acción no esta disponible"
 Calendar,Calendario
 "Belongs to ","Pertenece a "
-"Please confirm scope switching. All data that hasn't been saved will be lost.","Por favor, confirme el cambio en el campo. Todos los datos que no se haya guardado se perderá."
 "Share Preview Link","Compartir enlace de previzualización"
 Staging,"Puesta en escena"
 "Create New Update","Crear nueva actualización"
