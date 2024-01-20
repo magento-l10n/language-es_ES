@@ -4430,7 +4430,7 @@ hello,hola
 "We're sorry, an error has occurred while generating this content.","Lo sentimos, que ha ocurrido un error al generar este contenido."
 "Invalid sender data","Datos de remitente inválidos"
 "Are you sure you want to strip tags?","¿Seguro que deseas retirar las etiquetas?"
-"Are you sure you want to delete this template?","¿Realmente quiere borrar esta plantilla?"
+"Are you sure you want to delete this template?","¿Realmente quieres borrar esta plantilla?"
 "The template did not load. Please review the log for details.","La plantilla no se cargó. Por favor, revise el registro para más detalles."
 "Thank you, %store_name","Gracias, %store_name"
 "No Templates Found","No se encontraron plantillas"
@@ -6020,7 +6020,6 @@ Cancelled,Cancelado
 "Are you sure that you want to strip all tags?","¿Realmente quieres borrar todas las etiquetas?"
 "Please enter a new template name.","Por favor, introduce un nombre nuevo de plantilla."
 " Copy",Copia
-"Are you sure you want to delete this template?","¿Realmente quieres borrar esta plantilla?"
 "Sign Up for Our Newsletter:","Inscríbete a nuestro boletín de noticias:"
 "Enter your email address","Introduce tu dirección de correo electrónico"
 Subscribe,Suscribirse
@@ -8572,8 +8571,8 @@ MSRP,PVP:
 "New Price","Nuevo precio"
 "New Shipment for Order #%1","Nuevo envío para el pedido nº %1"
 "Submit Shipment","Enviar pedido"
-"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Estas tratando de agregar una cantidad para algunos productos que no coincide con la cantidad que fue enviada."
-"The value that you entered is not valid.","El valor que ha introducido no es válido."
+"You are trying to add a quantity for some products that doesn't match the quantity that was shipped.","Estás tratando de agregar una cantidad para algunos productos que no coincide con la cantidad que fue enviada."
+"The value that you entered is not valid.","El valor que has introducido no es válido."
 "Add Tracking Number","Añadir número de seguimiento"
 "Send Tracking Information","Enviar información de seguimiento"
 "Are you sure you want to send a Shipment email to customer?","¿Realmente quiere enviar al cliente un mensaje electrónico del pedido?"
