@@ -87,7 +87,6 @@ Quantity,Cantidad
 "Products in the Comparison List (%1)","Artículos en la lista de comparación (%1)"
 "Last ordered items (%1)","Últimos artículos pedidos (%1)"
 Products,Productos
-SKU,"Unidad de mantenimiento de existencias (SKU)"
 "Recently Compared Products (%1)","Productos comparados recientemente (%1)"
 "Recently Viewed Products (%1)","Productos vistos recientemente (%1)"
 "Add to Shopping Cart by SKU","Añadir al carrito de compras por SKU"
@@ -1427,7 +1426,6 @@ Forms,Formularios
 Root,Raíz
 "Use Config Settings","Usar opciones de configuración"
 "Use All Available Attributes","Utilizar todos los atributos disponibles"
-SKU,"SKU (Número de referencia)"
 Status,Estado
 "Add Subcategory","Añadir subcategoría"
 "Add Root Category","Añadir categoría raíz"
@@ -6025,7 +6023,9 @@ Ahora puede seleccionar la fecha de caducidad que desee."
 "Quote Total","Total presupuesto"
 "No such public catalog entity","No existe tal entidad de catálogo público"
 "Shared Catalog (or Customer Group)","Catálogo compartido (o grupo de clientes)"
-"No New Relic Application ID configured, cannot continue with Cron Event reporting","No esta configurada la nueva ID de aplicación Relic, no se puede continuar con el reporte de Eventos Cron"
+"No New Relic Application ID configured, cannot continue with Cron Event reporting","No está configurada la nueva ID de aplicación Relic, no se puede continuar con el reporte de Eventos Cron"
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More 
+                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","La nueva integración Relic requiere al agente newrelic-php5 que no está instalado. Más información sobre cómo instalar el agente está disponible <a target=""_blank"" href=""%1"">aquí</a>."
 "New Relic Reporting Section","Nueva sección de reporte Relic"
 "New Relic Reporting","Nuevos informes Relic"
 "Enable New Relic Integration","Habilitar nueva integración Relic"
