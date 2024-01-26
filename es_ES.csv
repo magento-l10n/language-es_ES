@@ -3325,19 +3325,24 @@ Select,Seleccionar
 "Buy %1 for %2 each and","Compre %1 por %2 cada uno y"
 save,guardar
 "Configurable Product Image","Imagen de producto configurable"
-"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Gracias por contactarnos con sus comentarios y preguntas. Pronto le responderemos."
+"Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Gracias por contactarnos con tus comentarios y preguntas. Pronto te responderemos."
 "An error occurred while processing your form. Please try again later.","Se produjo un error al procesar su formulario. Por favor, inténtelo de nuevo más tarde."
 "Write Us",Escríbenos
 "Jot us a note and we’ll get back to you as quickly as possible.","Tomamos nota y te responderemos lo antes posible."
-"What’s on your mind?","¿Qué está en su mente?"
+"What’s on your mind?","¿Qué tienes en mente?"
 "Contact Form","Formulario de contacto"
 "Contacts Section","Sección de contacto"
-"Contact Us",Contáctenos
-"Enable Contact Us","Habilitar contacte con nosotros"
+"Contact Us",Contáctanos
+"Enable Contact Us","Habilitar Contacta con nosotros"
 "Email Options","Opciones de correo electrónico"
 "Send Emails To","Enviar correos electrónicos a"
 "Email Sender","Remitente de correo electrónico"
 "Email Template","Plantilla de correo electrónico"
+"We can't process your request right now. Sorry, that's all we know.","No se puede procesar tu solicitud ahora mismo. Lo sentimos, eso es todo lo que sabemos."
+"Name: %name","Nombre: %name"
+"Email: %email","Correo electrónico: %email"
+"Phone Number: %telephone","Número de teléfono: %telephone"
+"Comment: %comment","Comentario: %comment"
 "Invalid domain name: %1","Nombre de dominio no válido: %1"
 "Invalid cookie lifetime: %1","Duración de cookie inválida: %1"
 "Invalid cookie path","Ruta de cookie no válida"
@@ -5960,6 +5965,7 @@ Expires:,Caduca:
 "Close quote","Cerrar presupuesto"
 "Quote Items","Lista del presupuesto"
 "No shipping information available.","No hay información disponible sobre el envío."
+"Contact Us",Contáctenos
 "Your quote number is: %1.","Su número de pedido es: %1."
 "The quote has been sent to the merchant.","El pedido se ha enviado al mercader."
 "Dear %merchant_name,","Estimado %merchant_name,"
