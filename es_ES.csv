@@ -651,7 +651,7 @@ password,contraseña
 "Top Search Terms","Artículos Más Buscados"
 "There are no search keywords.","No hay palabras clave de búsqueda."
 "View Statistics For:","Ver estadísticas de:"
-"All Websites","Todos sitios web"
+"All Websites","Todos los sitios web"
 "Reload Data","Recargar datos"
 "Browse Files...","Examinar archivos..."
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Copyright &copy; %1 Magento Commerce Inc. Todos los derechos reservados."
@@ -1881,7 +1881,7 @@ Backorders,"Pedidos pendientes"
 "In Stock","En existencias"
 "Out of Stock",Agotado
 "Add Product To Websites","Añadir artículo a sitios web"
-"Remove Product From Websites","Eliminar el artículo de los sitios de Internet"
+"Remove Product From Websites","Eliminar el artículo de los sitios web"
 "To hide an item in catalog or search results, set the status to ""Disabled"".","Para ocultar un elemento en el catálogo o los resultados de búsqueda, establece el estado en ""Inhabilitado""."
 "Delete Custom Option","Eliminar opción personalizada"
 "Sort Custom Options","Ordenar opciones personalizadas"
@@ -2296,6 +2296,7 @@ Stock,Disponibilidad
 "You may need more permissions to access this product.","Puede que necesites más permisos para acceder a este producto."
 "You cannot add ""%1"" to the cart.","No puedes añadir ""%1"" a la cesta."
 "Permissions do not depend on store views.","Los permisos no dependen de las vistas de tienda."
+"All Websites","Todos sitios web"
 "All Customer Groups","Todos los grupos de clientes"
 Allow,Permitir
 Deny,Denegar
