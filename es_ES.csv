@@ -244,7 +244,7 @@ Synonym,Sinónimo
 "Message has been rejected: %1","El mensaje ha sido rechazado: %1"
 "Error while checking if topic is synchronous","Error al comprobar si el tema es sincrónico"
 "Subscription status","Estado de suscripción"
-"Sorry, there has been an error processing your request. Please try again later.","Lo sentimos, ha habido un error al procesar su petición. Por favor Inténtalo más tarde."
+"Sorry, there has been an error processing your request. Please try again later.","Lo sentimos, ha habido un error al procesar tu petición. Por favor inténtalo más tarde."
 "Cron settings can't be saved","La configuración de Cron no se puede guardar"
 "There was an error save new configuration value.","Hubo un error al guardar el nuevo valor de configuración."
 "--Please Select--","--Por favor selecciona--"
@@ -415,7 +415,7 @@ Debug,Depurar
 "Cannot place order.","No se puede realizar el pedido."
 "'Gateway error: ' .","'Error de puerta de enlace:' ."
 "Unable to place order. Please try again later.","No ha sido posible crear el pedido. Por favor inténtalo de nuevo más tarde."
-"A server error stopped your order from being placed. Please try to place your order again.","Un error del servidor detuvo su pedido de ser completado. Por favor, intente hacer su pedido de nuevo."
+"A server error stopped your order from being placed. Please try to place your order again.","Un error del servidor ha impedido que tu pedido se complete. Por favor, intenta hacer el pedido de nuevo."
 "The transaction details are unavailable. Please try again later.","Los detalles de la transacción no están disponibles. Por favor prueba de nuevo después."
 "Authorize.Net Direct Post (Deprecated)","Post Directo Authorize.Net (Obsoleto)"
 "Signature Key","Clave de Firma"
@@ -666,7 +666,7 @@ Next,Siguiente
 Time,Hora
 Hour,Hora
 Minute,Minuto
-"JavaScript may be disabled in your browser.","Posiblemente JavaScript esté desactivado en su navegador."
+"JavaScript may be disabled in your browser.","Posiblemente JavaScript esté desactivado en tu navegador."
 "To use this website you must first enable JavaScript in your browser.","Para utilizar este sitio web primero debes activar JavaScript en tu navegador."
 "This is only a demo store. You can browse and place orders, but nothing will be processed.","Esto es solo una tienda de demostración. Puedes navegar y realizar pedidos, pero no se procesarán."
 "Report an Issue","Informar sobre un problema"
@@ -1042,7 +1042,7 @@ Header,Encabezado
 "Dynamic Block Information","Información de Bloque Dinámico"
 "Dynamic Block","Bloque Dinámico"
 "Dynamic Block Type","Tipo de Bloque Dinámico"
-"Are you sure you want to delete these dynamic blocks?","¿Está seguro de que desea eliminar estos bloques dinámicos?"
+"Are you sure you want to delete these dynamic blocks?","¿Estás seguro de que deseas eliminar estos bloques dinámicos?"
 "Related Dynamic Blocks","Bloques Dinámicos Relacionados"
 "You deleted the dynamic block.","Ha eliminado el bloque dinámico."
 "Something went wrong while deleting dynamic block data. Please review the action log and try again.","Algo ha salido mal mientras se eliminaban los datos del bloque dinámico. Por favor, revise el registro de acción e intente de nuevo."
@@ -1094,7 +1094,7 @@ expires,expira
 "Please, enter valid Credit Card Number","Por favor, indica un número de tarjeta de crédito válido"
 "Please, enter valid Expiration Date","Por favor, indica la fecha de vencimiento válida"
 "Please, enter valid Card Verification Number","Por favor, indica el número de verificación de tarjeta válido"
-"Are you sure you want to delete this PayPal account","¿Esta seguro que quieres eliminar esta cuenta de PayPal?"
+"Are you sure you want to delete this PayPal account","¿Seguro que quieres eliminar esta cuenta de PayPal?"
 "PayPal Account","Cuenta PayPal"
 "PayPal Logo","Logo PayPal"
 "Credit Card Information","Información de tarjeta de crédito"
@@ -1119,13 +1119,13 @@ YY,AA
 "Cannot refund a transaction with a suspended merchant account.","No se reembolsará una transacción con una cuenta suspendida."
 "Merchant account does not support refunds.","Cuenta de comerciante no admite devoluciones."
 "Cannot refund a transaction transaction in settling status on this merchant account. Try again after the transaction has settled.","No se reembolsará una transacción de la transacción en la resolución de status en esta cuenta. Inténtelo de nuevo después de que la transacción se ha establecido."
-"PayPal is not enabled for your merchant account.","PayPal no está habilitado para su cuenta de comerciante."
+"PayPal is not enabled for your merchant account.","PayPal no está habilitado para tu cuenta de comerciante."
 "Partial settlements are not supported by this processor.","Los créditos no son compatibles con este procesador."
 "Cannot submit for partial settlement.","No puede presentar para la liquidación parcial."
 "Transaction can not be voided if status of a PayPal partial settlement child transaction is settlement_pending.","La transacción no puede anularse si el estado de una transacción secundaria de PayPal es settlement_pending."
 "Too many concurrent attempts to refund this transaction. Try again later.","Demasiados intentos en la operación de reembolso. Inténtalo más tarde."
 "Too many concurrent attempts to void this transaction. Try again later.","Demasiados intentos anulando la operación. Inténtalo más tarde."
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acepta tarjetas de crédito/débito y PayPal en su tienda Magento. <br/> Sin cargos mensuales o de instalación y los clientes nunca abandonan su tienda para completar la compra."
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Acepta tarjetas de crédito/débito y PayPal en tu tienda Magento.<br/> Sin cargos mensuales o de instalación y los clientes nunca abandonan tu tienda para completar la compra."
 "Enable this Solution","Habilitar esta solución"
 "Enable PayPal through Braintree","Activar PayPal a través de Braintree"
 "Vault Enabled","Bóveda habilitada"
@@ -1278,19 +1278,19 @@ State/Province,Estado/provincia
 "Pay with PayPal","Pagar con PayPal"
 "Transaction is cancelled offline.","La transacción se ha cancelado offline."
 "Braintree Settlement","Liquidación de Braintree"
-"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Si no se especifica la cuenta de comerciante para procesar una transacción, Braintree procesará utilizando su cuenta de comerciante por defecto."
-"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Asegúrese de habilitar la protección contra fraude avanzada en su cuenta de Braintree en la sección configuración/procesamiento"
-"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Se usa para la integración directa de herramientas de fraude. Asegúrese de contactar también a <a href=""mailto:accounts@braintreepayments.com""> accounts@braintreepayments.com </a> para configurar su cuenta de Kount."
-"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Asegúrese de habilitar la protección contra fraude avanzada en su cuenta de Braintree en la sección configuración/procesamiento."
+"If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","Si no se especifica la cuenta de comerciante para procesar una transacción, Braintree procesará utilizando tu cuenta de comerciante por defecto."
+"Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Asegúrate de habilitar la protección contra fraude avanzada en tu cuenta de Braintree en la sección configuración/procesamiento"
+"Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Se usa para la integración directa de herramientas de fraude. Asegúrate de contactar también a <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> para configurar tu cuenta de Kount."
+"Be sure to Enable AVS and/or CVV in Your Braintree Account in Settings/Processing Section.","Asegúrate de habilitar AVS y/o CVV en tu cuenta de Braintree en la sección configuración/procesamiento."
 "It is recommended to set this value to ""PayPal"" per store views.","Se recomienda fijar este valor en ""PayPal"" por vistas de tienda."
 "This feature needs be enabled first for the merchant account through PayPal technical support.","Esta característica necesita primero ser activada para la cuenta comercial a través del soporte técnico de PayPal."
 "Also affects mini-shopping cart.","También afecta al mini-carro de la compra."
 "Dynamic descriptors are sent on a per-transaction basis and define what will appear on your customers credit card statements for a specific purchase.
                             The clearer the description of your product, the less likely customers will issue chargebacks due to confusion or non-recognition.
                             Dynamic descriptors are not enabled on all accounts by default. If you receive a validation error of 92203 or if your dynamic descriptors are not displaying as expected,
-                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Los descriptores dinámicos son enviados sobre una base por transacción y definen lo que aparecerán en las declaraciones de su tarjeta de crédito para una compra específica.
-                            Cuanto más clara sea la descripción de su producto, los clientes menos probables emitirán cargos debido a confusión o no reconocimiento.
-                            Los descriptores dinámicos no están habilitados en todas las cuentas por defecto. Si recibe un error de validación de 92203 o si sus descriptores dinámicos no se muestran como se esperaba,
+                            please <a href=""mailto:support@getbraintree.com"">Braintree Support</a>.","Los descriptores dinámicos son enviados por transacción y definen lo que aparecerá en los extractos de las tarjetas de crédito de tus clientes para una compra específica.
+                            Cuanto más clara sea la descripción de tu producto, los clientes menos probables emitirán cargos debido a confusión o no reconocimiento.
+                            Los descriptores dinámicos no están habilitados en todas las cuentas por defecto. Si recibes un error de validación de 92203 o si tus descriptores dinámicos no se muestran como se esperaba,
                             por favor <a href=""mailto:support@getbraintree.com"">Soporte de Braintree</a>."
 "The value in the business name field of a customer's statement. Company name/DBA section must be either 3, 7 or 12 characters
                                 and the product descriptor can be up to 18, 14, or 9 characters respectively (with an * in between for a total descriptor name of 22 characters).","El valor en el campo del nombre de negocio de la declaración de un cliente. La sección Nombre de la empresa/DBA debe ser de 3, 7 o 12 caracteres
@@ -1299,7 +1299,7 @@ State/Province,Estado/provincia
 "The value in the URL/web address field of a customer's statement. The URL must be 13 characters or shorter.","El valor en el campo URL/dirección web de la declaración de un cliente. La URL debe tener 13 caracteres o más corto."
 "The Payment Token is not available to perform the request.","El token de pago no está disponible para realizar la solicitud."
 "Checkout failed to initialize. Verify and try again.","No se pudo iniciar el proceso de pago. Vuelva a intentarlo."
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","El pedido no fue realizado. Primero, acepte los términos y condiciones, luego intente realizar su pedido nuevamente."
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","El pedido no fue realizado. Primero, acepta los términos y condiciones, luego intenta realizar el pedido nuevamente."
 "Paypal account","Cuenta de PayPal"
 "Coinbase account","Cuenta Coinbase"
 "Europe bank account","Cuenta del banco europeo"
@@ -1382,7 +1382,7 @@ Default,Predeterminado
 Ordered,Pedidos
 Invoiced,Facturado
 Shipped,Enviado
-Refunded,Reembolsado.
+Refunded,Reembolsado
 Canceled,Cancelado
 "As low as","Tan bajo como"
 "Regular Price","Precio habitual"
@@ -1628,8 +1628,8 @@ Categories,Categorías
 "You removed product %1 from the comparison list.","Se quito el producto %1 de la lista de comparación."
 "1 item","1 artículo"
 "%1 items","%1 artítulos"
-"Are you sure you want to remove this item from your Compare Products list?","¿Está seguro que desea eliminar este elemento de la lista de productos a comparar?"
-"Are you sure you want to remove all items from your Compare Products list?","¿Está seguro que desea eliminar todos los elementos de la lista de productos a comparar?"
+"Are you sure you want to remove this item from your Compare Products list?","¿Seguro que deseas eliminar este elemento de la lista de productos a comparar?"
+"Are you sure you want to remove all items from your Compare Products list?","¿Seguro que deseas eliminar todos los elementos de la lista de productos a comparar?"
 "Invalid attribute %1","Atributo %1 inválido"
 Grid,Cuadrícula
 List,Lista
@@ -1836,7 +1836,7 @@ message,mensaje
 "Cross-Sell Products","Artículos de venta cruzada"
 "Schedule Update From","Programa actualización desde"
 "Product in Websites","Producto en sitios web"
-"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Si su instalación de Magento tiene múltiples sitios web, puede editar el alcance para utilizar el producto en sitios específicos."
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.","Si tu instalación de Magento tiene múltiples sitios web, puedes editar el ámbito para utilizar el producto en sitios específicos."
 name,nombre
 "Copy Data from","Copiar datos desde"
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products &gt; Categories</a>.","Si no hay categorías padres personalizadas, por favor usa la categoría principal predeterminada. Puedes reasignar la categoría en cualquier momento en <a href=""%1"" target=""_blank"">Productos &gt; Categorías</a>."
@@ -2440,7 +2440,7 @@ Path,Camino
 "For delivery questions.","Para preguntas de entrega."
 "Customer is already registered","El cliente ya está registrado"
 "Your session has expired","Tu sesión ha caducado"
-"A letter with further instructions will be sent to your email.","Se enviara un correo con mas instrucciones a su cuenta de correo."
+"A letter with further instructions will be sent to your email.","Se enviará un correo con más instrucciones a tu cuenta de correo."
 "We can't find the quote item.","No podemos encontrar el artículo del presupuesto."
 "We cannot configure the product.","No se puede configurar el artículo."
 "You used coupon code ""%1"".","Se utiliza el código de cupón ""%1""."
@@ -2536,7 +2536,7 @@ edit,editar
 " is required."," es requerido."
 "Provided Zip/Postal Code seems to be invalid.","El Código Postal parece no ser válido."
 " Example: "," Ejemplo: "
-"If you believe it is the right one you can ignore this notice.","Si usted cree que es el correcto, puede ignorar este aviso."
+"If you believe it is the right one you can ignore this notice.","Si crees que es el correcto, puedes ignorar este aviso."
 "New Address","Nueva dirección"
 "Are you sure you would like to remove this item from the shopping cart?","¿Seguro que deseas eliminar este artículo del carrito de compra?"
 "Review & Payments","Revisión y Pagos"
@@ -2685,7 +2685,7 @@ Pages,Páginas
 "Error message","Mensaje de error"
 Exception,Excepción
 "Could not create a directory.","No se puede crear el directorio."
-"Are you sure you want to delete a %1 record?","¿Está seguro que desea eliminar un registro de %1?"
+"Are you sure you want to delete a %1 record?","¿Seguro que deseas eliminar un registro de %1?"
 View,Ver
 "No files found","No se encontraron archivos"
 "Media Gallery","Galería de medios"
@@ -2714,7 +2714,7 @@ Block,Bloque
 "CMS Static Block Default Template","Plantilla predeterminada de bloque estático CMS"
 "Enable Block","Activar bloque"
 "Block Title","Título de bloque"
-"Are you sure you want to delete selected items?","¿Está seguro que desea eliminar los elementos seleccionados?"
+"Are you sure you want to delete selected items?","¿Seguro que deseas eliminar los elementos seleccionados?"
 "Page Information","Página de información"
 "Enable Page","Activar página"
 "Content Heading","Encabezado del contenido"
@@ -2785,7 +2785,7 @@ Gender:,Género:
 Duplicated,Duplicado
 "Company Structure","Estructura de la empresa"
 "New Company","Nueva empresa"
-"Thank you! We're reviewing your request and will contact you soon","¡Gracias! Estamos revisando su solicitud y nos pondremos en contacto con usted pronto"
+"Thank you! We're reviewing your request and will contact you soon","¡Gracias! Estamos revisando tu solicitud y nos pondremos en contacto contigo pronto"
 "An error occurred on the server. Your changes have not been saved.","Se ha producido un error en el servidor. Sus cambios no se han guardado."
 "Create New Company","Crear Nueva Empresa"
 "A total of %1 record(s) were updated.","Un total de %1 registro(s) fueron actualizados."
@@ -2800,8 +2800,8 @@ Duplicated,Duplicado
 "Could not save company","No se pudo guardar la empresa"
 "You have saved company %companyName.","Has guardado la empresa %companyName."
 "You have created company %companyName.","Has creado la empresa %companyName."
-"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","Un usuario con esta dirección de correo electrónico ya existe en el sistema. Si procede, el usuario se vinculará a su empresa."
-"A user with this email address is already a member of your company.","Un usuario con esta dirección de correo electrónico ya es un miembro de su empresa."
+"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","Un usuario con esta dirección de correo electrónico ya existe en el sistema. Si continúas, el usuario se vinculará a tu empresa."
+"A user with this email address is already a member of your company.","Un usuario con esta dirección de correo electrónico ya es un miembro de tu empresa."
 "A user with this email address already exists in the system. Enter a different email address to create this user.","Un usuario con esta dirección de correo electrónico ya existe en el sistema. Escriba una dirección de correo electrónico diferente para crear este usuario."
 "You are not allowed to do this.","No tiene permitido hacer esto."
 "Cannot create the customer.","No se puede crear el cliente."
@@ -2846,7 +2846,7 @@ Blocked,Bloqueado
 "Unable to set ""allow"" for the resource because its parent resource(s) is set to ""deny"".","No se puede configurar ""permitir"" para el recurso porque su principal recurso(s) está establecida a ""denegar""."
 "Invalid login or password.","Usuario o contraseña incorrectos."
 "This account is locked.","Esta cuenta está bloqueada."
-"Your account is not yet approved. If you have questions, please contact the seller.","Su cuenta aún no está aprobada. Si tiene alguna pregunta, póngase en contacto con el vendedor."
+"Your account is not yet approved. If you have questions, please contact the seller.","Tu cuenta aún no está aprobada. Si tienes alguna pregunta, ponte en contacto con el vendedor."
 "There was an error saving custom attributes.","Se produjo un error al guardar atributos personalizados."
 "Invalid value of ""%value"" provided for the %fieldName field.","El valor de ""%value"" no es válido para el campo %fieldName."
 """%fieldName"" is required. Enter and try again.","Se requiere ""%fieldName"". Ingreselo e intente nuevamente."
@@ -2937,39 +2937,39 @@ Contacts,Contactos
 "Your account is now active. You can use it to login to the <a href=""%customer_url"">website</a>.","Tu cuenta esta ahora activa. Puedes usarla para iniciar sesión en el <a href=""%customer_url"">sitio web</a>."
 "Your account is no longer active. You will not be able to use it for login.","Tu cuenta no está activa. No podrás usarla para iniciar sesión."
 "If this is a mistake, please contact the seller.","Si esto es un error contacte con el vendedor."
-"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Tu cuenta ha sido configurada como inactiva y no podrás acceder a la cuenta de la empresa. Si crees que esto es un error contacte con su encargado para detalles."
+"Your account has been set to inactive and you cannot now access the company account. If you think this is a mistake, please contact your manager for details.","Tu cuenta ha sido configurada como inactiva y no podrás acceder a la cuenta de la empresa. Si crees que esto es un error, contacta con tu encargado para los detalles."
 "A company registration request has been submitted by customer %customer. The account is temporarily locked until you approve or reject this company.","Una solicitud de registro de una empresa ha sido enviada por el cliente %customer. La cuenta esta temporalmente bloqueada hasta que aprobemos o rechacemos la empresa."
 "Company: %company","Empresa: %company"
 "Your company registration request (for the <strong>%company_name</strong>)
     has been approved and you have been set as the Company Admin.
     You can now create and manage your company structure.
     Your company members are able to request quotes, create requisition lists,
-    and use other B2B features.","Solicitud de registro de su empresa (para <strong>%company_name</strong>)
-    ha sido aprobada y ha sido definido como Admin. de la empresa.
-    Ahora puede crear y administrar la estructura de la empresa.
-    Los miembros de su empresa son capaces de solicitar cotizaciones, crear listas de requerimiento,
+    and use other B2B features.","La solicitud de registro de tu empresa (para <strong>%company_name</strong>)
+    ha sido aprobada y has sido definido como Admin. de la empresa.
+    Ahora puedes crear y administrar la estructura de la empresa.
+    Los miembros de tu empresa son capaces de solicitar cotizaciones, crear listas de requerimiento,
     y usar otras funciones B2B."
 "The status of your company <strong>%company_name</strong>
     is now <strong>Active</strong>.
     Once you login, you will be able to place orders on behalf of your company
-    and use other B2B features.","El estado de su empresa <strong>%company_name</strong>
-    es ahora <strong>Activa</strong>.
-    Una vez que inicie sesión, podrá realizar pedidos en nombre de su empresa
+    and use other B2B features.","El estado de tu empresa <strong>%company_name</strong>
+    es ahora <strong>Activo</strong>.
+    Una vez que inicies sesión, podrás realizar pedidos en nombre de tu empresa
     y utilizar otras características de B2B."
-"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Su tipo de cuenta ha cambiado de Administrador de la empresa a una cuenta de usuario regular. Si cree que esto es un error, comuníquese con su gerente para obtener más detalles."
+"Your account type has been changed from Company Admin to a regular user account. If you think this is a mistake, please contact your manager for details.","Tu tipo de cuenta ha cambiado de Administrador de la empresa a una cuenta de usuario normal. Si crees que esto es un error, comunícate con su gerente para obtener más detalles."
 "You have been assigned to %company_name as the Sales Representative.","Se le ha asignado a %company_name como Representante de ventas."
 "When you sign in to your account, you will be able to:","Cuando inicies sesión en tu cuenta, podrás:"
 "* View and manage company quotes in Admin Panel","* Visualizar y gestionar cotizaciones de la empresa en el Panel de administración"
 "* View and edit company profile in Admin Panel","* Ver y editar el perfil de la empresa en el Panel de administración"
 "Your company account <strong>%company_name</strong> has been blocked.
     Your company members can continue using the website,
-    but they will not be able to place orders.","Su cuenta de empresa <strong>%company_name</strong> ha sido bloqueada.
-    Los miembros de su empresa pueden seguir utilizando el sitio web,
-    pero no podrá realizar pedidos."
+    but they will not be able to place orders.","Tu cuenta de empresa <strong>%company_name</strong> ha sido bloqueada.
+    Los miembros de tu empresa pueden seguir utilizando el sitio web,
+    pero no podrán realizar pedidos."
 "If you have any questions, please contact the seller.","Si tiene alguna pregunta, por favor contacte con el vendedor."
-"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","La cuenta de su empresa <strong>%company_name</strong> ha sido suspendida, pendiente de aprobación por parte del vendedor."
+"Your company account <strong>%company_name</strong> has been suspended, pending approval from the seller.","La cuenta de tu empresa <strong>%company_name</strong> ha sido suspendida, pendiente de aprobación por parte del vendedor."
 "Your company registration request (for the <strong>%company_name</strong>) has been rejected
-    for the following reason:","La solicitud de registro de su empresa (para  <strong>%company_name</strong>) se ha rechazado
+    for the following reason:","La solicitud de registro de tu empresa (para  <strong>%company_name</strong>) se ha rechazado
     por la siguiente razón:"
 "This action cannot be undone. Are you sure you want to delete this company? After the company is deleted, all the company members will be set to Inactive.","Esta acción no se puede deshacer. ¿Estás seguro de que quieres eliminar esta empresa? Una vez eliminada la empresa, todos los miembros de la empresa se configurarán como Inactivos."
 "Delete a Company?","¿Eliminar empresa?"
@@ -2984,13 +2984,13 @@ Proceed,Proceder
 "Edit User","Editar usuario"
 "Cannot Delete User","No se puede eliminar el usuario"
 "Delete this user?","¿Eliminar este usuario?"
-"This action cannot be undone. Are you sure you want to delete this user?","Esta acción no se puede deshacer. ¿Está seguro que desea eliminar este usuario?"
+"This action cannot be undone. Are you sure you want to delete this user?","Esta acción no se puede deshacer. ¿Seguro que deseas eliminar este usuario?"
 "Edit Team","Editar equipo"
 "Cannot Delete This Team","No se puede eliminar este equipo"
 "Delete this team?","¿Eliminar este equipo?"
-"This action cannot be undone. Are you sure you want to delete this team?","Esta acción no se puede deshacer. ¿Está seguro que desea eliminar este equipo?"
+"This action cannot be undone. Are you sure you want to delete this team?","Esta acción no se puede deshacer. ¿Seguro que deseas eliminar este equipo?"
 "Delete This Role?","¿Eliminar este cargo?"
-"This action cannot be undone. Are you sure you want to delete this role?","Esta acción no se puede deshacer. ¿Está seguro que desea eliminar este cargo?"
+"This action cannot be undone. Are you sure you want to delete this role?","Esta acción no se puede deshacer. ¿Seguro que deseas eliminar este cargo?"
 "Cannot Delete Role","No se puede eliminar el cargo"
 "Cannot Delete Customer","No se puede eliminar el cliente"
 "Set Inactive","Establecer inactivo"
@@ -3038,7 +3038,7 @@ Comma-separated,"Separados por comas"
 "Use Pay On Account method","Utilice el método Pago A Cuenta"
 "View orders","Ver pedidos"
 "View orders of subordinate users","Ver órdenes de usuarios subordinados"
-"Are you sure you want to set the selected companies as active?","¿Está seguro de que desea configurar las empresas seleccionadas como activas?"
+"Are you sure you want to set the selected companies as active?","¿Estás seguro de que deseas configurar las empresas seleccionadas como activas?"
 "Set a Company as Active","Establecer una empresa como activa"
 "Set Active","Establecer activo"
 "Are you sure you want to block the selected companies?","¿Estás seguro de que quieres bloquear las empresas seleccionadas?"
@@ -3050,12 +3050,12 @@ ZIP,"Código postal"
 "Company Admin","Administrador de la empresa"
 Gender,Sexo
 "Customer Type","Tipo de cliente"
-"Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.","¿Está seguro que desea desactivar temporalmente esta cuenta de empresa? Si confirma se bloqueará el inicio de sesión para todos los miembros de la empresa."
-"Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>","¿Confirma que desea establecer esta empresa en activo? Si confirma, los miembros de la empresa será capaces de operar dentro de su cuenta de la compañía"
-"Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.","¿Está seguro que desea desactivar rechazar esta empresa? Si confirma, el acceso a todos los miembros de la empresa será bloqueado."
+"Are you sure you want to temporarily disable this company account? If you confirm, login for all company members will be blocked.","¿Seguro que deseas desactivar temporalmente esta cuenta de empresa? Si confirmas, se bloqueará el inicio de sesión para todos los miembros de la empresa."
+"Are you sure you want to set this company to active? If you confirm, the company members will be able to operate within their company account.>","¿Seguro que deseas activar esta empresa? Si confirmas, los miembros de la empresa serán capaces de operar dentro de su cuenta de la compañía"
+"Are you sure you want to reject this company? If you confirm, login for all company members will be blocked.","¿Seguro que deseas rechazar esta empresa? Si confirmas, el acceso a todos los miembros de la empresa será bloqueado."
 "Please specify the reason","Por favor, especifique la razón"
 "The reason will appear in the 'Rejected' email sent to the Company Admin. It will also be saved and displayed in Admin Panel (in the company profile).","La razón aparecera en el email ""Rechazado"" enviado al administrador de la empresa. También será guardado y mostrado en el panel de control (en el perfil de la empresa)."
-"Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.","¿Seguro que desea bloquear esta empresa? Si confirma, los miembros de la empresa no podrán hacer pedidos."
+"Are you sure you want to block this company? If you proceed, the company members will not be able to place orders.","¿Seguro que deseas bloquear esta empresa? Si confirmas, los miembros de la empresa no podrán hacer pedidos."
 "Reason for Rejection","Razón del Rechazo"
 "VAT / TAX ID","IVA / IMP ID"
 Prefix,Prefijo
@@ -3074,8 +3074,8 @@ Suffix,Sufijo
 Team,Equipo
 Users,Usuarios
 "Reimburse Balance","Reembolsar Saldo"
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","¿Seguro que desea cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa no está activa."
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","¿Seguro que desea cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa asociada a este cliente no existe."
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","¿Seguro que deseas cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa no está activa."
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","¿Seguro que deseas cancelar este pedido? El importe del pedido no se revertirá a %1 porque la empresa asociada a este cliente no existe."
 "History record no longer exists.","El historial ya no existe."
 "Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","No se pueden conseguir los tipos de cambio ahora. Por favor, inténtelo más tarde o contacte con el administrador de la tienda."
 "Unable to convert company credit. Please try again later or contact store administrator.","No se puede convertir el crédito de la empresa. Por favor, inténtelo más tarde o contacte con el administrador de la tienda."
@@ -3088,7 +3088,7 @@ unavailable.,"no disponible."
 "We can't save the credit memo because the company associated with this customer does not exist.","No podemos guardar la nota de credito porque la empresa asociada al cliente no existe."
 "We can't save the credit memo because the company associated with customer is not active.","No podemos guardar la nota de credito porque la empresa asociada al cliente no está activa."
 "The requested Payment Method is not available.","El método de pago solicitado no está disponible."
-"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de su pedido excede el importe de su crédito."
+"Payment On Account cannot be used for this order because your order amount exceeds your credit amount.","Pago A Cuenta no se puede utilizar para este pedido porque el importe de tu pedido excede el importe de tu crédito."
 "Cannot process the request. Please check the operation type and try again.","No se puede procesar la solicitud. Por favor, compruebe el tipo de operación y vuelva a intentarlo."
 "Invalid attribute value. Row ID: %fieldName = %fieldValue.","Valor de atributo no válido. ID fila: %fieldName = %fieldValue."
 "The selected currency is not available. Please select a different currency.","La moneda seleccionada no está disponible. Por favor seleccione una moneda diferente."
@@ -3136,15 +3136,15 @@ Reverted,Revertido
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","El crédito de la Empresa en todas las empresas seleccionadas se convertirá utilizando la tasa a continuación. Esta operación no se puede deshacer."
 "Credit allocated to %company_name","Crédito asignado a %company_name"
 "Your company has been allocated a credit of %available_credit.
-    You can now use the Payment On Account method to place you orders.","A su empresa se le ha asignado un crédito de %available_credit.
-    Ahora puede utilizar el método de pago  A Cuenta para hacer pedidos."
+    You can now use the Payment On Account method to place you orders.","A tu empresa se le ha asignado un crédito de %available_credit.
+    Ahora puedes utilizar el método de pago A Cuenta para hacer pedidos."
 "The history of your credit operations is available on the Company Credit page.","La historia de sus operaciones de crédito está disponible en la página de Crédito de la Empresa."
 "%company_name account reimbursed","cuenta %company_name reembolsada"
-"Your company credit account has been reimbursed by %reimbursed_amount.","Su cuenta de crédito de la empresa ha sido reembolsada por %reimbursed_amount."
+"Your company credit account has been reimbursed by %reimbursed_amount.","Tu cuenta de crédito de la empresa ha sido reembolsada con %reimbursed_amount."
 "%company_name credit limit updated","El límite de crédito de %company_name se ha actualizado"
 "Your credit limit has been updated and is now %available_credit.
-    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Su límite de crédito se ha actualizado y ahora es %available_credit.
-    Su saldo pendiente asciende actualmente a %outstanding_balance. Esta a %exceed_limit de exceder el límite de crédito."
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Tu límite de crédito se ha actualizado y ahora es %available_credit.
+    Tu saldo pendiente asciende actualmente a %outstanding_balance. Estás a %exceed_limit de exceder el límite de crédito."
 "Order %order_id refunded","Pedido %order_id reembolsado"
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","Un reembolso de %refunded_amount se ha hecho en el pedido n.º %order_id. Esta cantidad se ha aplicado al crédito de la empresa."
 "Order %order_id reverted","Pedido %order_id reembolsado"
@@ -3375,8 +3375,8 @@ Select,Seleccionar
 "Please select attribute for {section} section.","Por favor, seleccione el atributo para la sección de {section}."
 "Please fill in the values for {section} section.","Por favor, rellene los valores de la sección de {section}."
 "Please fill-in correct values.","Por favor, complete con valores correctos."
-"Please select image(s) for your attribute.","Por favor, seleccione imágen(es) para su atributo."
-"Please choose image(s).","Por favor, seleccione imágen(es)."
+"Please select image(s) for your attribute.","Por favor, selecciona imagen(es) para tu atributo."
+"Please choose image(s).","Por favor, selecciona imagen(es)."
 "When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.","Cuando elimina o agrega un atributo, actualizamos automáticamente todas las configuraciones y deberá volver a crear las configuraciones actuales manualmente."
 "Please select attribute(s).","Por favor, seleccione atributo(s)."
 "Generate Products","Generar productos"
@@ -3394,7 +3394,7 @@ save,guardar
 "Please fill in the values for the section ","Por favor, rellena los valores de la sección "
 "Configurable product ""%1"" does not have sub-products","El producto configurable ""%1"" no tiene subproductos"
 "Thanks for contacting us with your comments and questions. We'll respond to you very soon.","Gracias por contactarnos con tus comentarios y preguntas. Pronto te responderemos."
-"An error occurred while processing your form. Please try again later.","Se produjo un error al procesar su formulario. Por favor, inténtelo de nuevo más tarde."
+"An error occurred while processing your form. Please try again later.","Se produjo un error al procesar el formulario. Por favor, inténtalo de nuevo más tarde."
 "Write Us",Escríbenos
 "Jot us a note and we’ll get back to you as quickly as possible.","Tomamos nota y te responderemos lo antes posible."
 "What’s on your mind?","¿Qué tienes en mente?"
@@ -3769,7 +3769,7 @@ Password:,Contraseña:
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Para acceder a nuestro sitio y establecer una contraseña, haz clic en el siguiente <a href=""%create_password_url"">enlace</a>:"
 "Your %store_name email has been changed","Se ha cambiado tu correo electrónico en %store_name"
 "We have received a request to change the following information associated with your account at %store_name: email.","Hemos recibido una solicitud para cambiar la siguiente información asociada a tu cuenta en %store_name: correo electrónico."
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si usted no ha autorizado esta acción, por favor contáctenos inmediatamente a <a href=""mailto:%store_email""> %store_email</a>"
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Si no has autorizado esta acción, por favor contacta con nosotros inmediatamente en <a href=""mailto:%store_email"">%store_email</a>"
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","o llámanos al <a href=""tel:%store_phone"">%store_phone</a>"
 "Thanks,<br>%store_name","Gracias,<br>%store_name"
 "Your %store_name email and password has been changed","Se ha cambiado tu correo electrónico y contraseña en %store_name"
@@ -3785,7 +3785,7 @@ Password:,Contraseña:
 "See order and shipping status","Ver estado de pedidos y envíos"
 "Track order history","Rastrear historial de pedidos"
 "Check out faster","Comprar más rápidamente"
-"Checkout using your account","Pagar usando su cuenta"
+"Checkout using your account","Pagar usando tu cuenta"
 "Are you sure you want to delete this address?","¿Realmente quieres borrar esta dirección?"
 Weak,Débil
 Medium,Medio
@@ -3915,8 +3915,8 @@ Addresses,Direcciones
 "You are signed out.","Has cerrado la sesión."
 "The store view is not in the associated website.","La vista de tienda no está en el sitio web asociado."
 State,Estado
-"Are you sure you want to delete the selected customers?","¿Está seguro que desea eliminar los clientes seleccionados?"
-"Are you sure you want to unsubscribe the selected customers from the newsletter?","¿Está seguro de dar de baja a clientes seleccionados de la newsletter?"
+"Are you sure you want to delete the selected customers?","¿Seguro que deseas eliminar los clientes seleccionados?"
+"Are you sure you want to unsubscribe the selected customers from the newsletter?","¿Estás seguro de dar de baja a los clientes seleccionados del boletín de noticias?"
 "Delete Orphan Balances","Eliminar saldos huérfanos"
 "Balance Change","Modificación de saldo."
 Balance,Saldo
@@ -3958,7 +3958,7 @@ available,disponible
 "We have updated your <a href=""%store_url"">%store_name</a> account and you have credit that you can use for future purchases.","Hemos actualizado tu cuenta <a href=""%store_url""> %store_name</a> y tienes crédito que puedes utilizar para futuras compras."
 "Your Store Credit balance is now %balance.","Tu saldo de crédito de la tienda es ahora %balance."
 "Store credit available","Saldo de crédito de la tienda"
-"Your store credit was successfully applied","Su crédito de la tienda fue aplicado con éxito"
+"Your store credit was successfully applied","Tu crédito de la tienda fue aplicado con éxito"
 "Store Credit Options","Opciones de crédito de la tienda"
 "Enable Store Credit Functionality","Habilitar funcionalidad de crédito de la tienda"
 "Show Store Credit History to Customers","Mostrar historial de crédito de la tienda a los clientes"
@@ -4211,7 +4211,7 @@ Decision,Decisión
 "Invalid value. Because the request contains an unexpected value, a default value was substituted. Although the transact on can still be processed, examine the request carefully for abnormalities in the order","Valor invalido. Dado que la petición incluye un valor inesperado, el valor por defecto fue sustituido. Por otro lado la transacción aún puede ser procesada, por favor examina cuidadosamente la petición generada en busca de anomalías en el pedido"
 "Unknown factor. Please contact Cybersource customer service","Factor desconocido. Por favor, póngase en contacto con servicio al cliente de Cybersource"
 "Payment Token Build Error.","Error de Generación de Token de Pago."
-"Your payment has been declined. Please try again.","Su pago ha sido rechazado. Por favor, inténtelo de nuevo."
+"Your payment has been declined. Please try again.","Tu pago ha sido rechazado. Por favor, inténtalo de nuevo."
 "CC type field should be provided","Proporciona un campo de tipo Tarjeta de Crédito"
 "Gateway validation error","Error de validación de Gateway"
 "Risk Factor Q","Factor de riesgo Q"
@@ -4220,7 +4220,7 @@ Decision,Decisión
 "Access Key",Zugriffsschlüssel
 "Secret Key","Geheimer Schlüssel"
 "Webhook URL","URL del webhook"
-"Webhook URL should be set in your Cybersource account as Transaction Response Page.","La URL del Webhook debe ser establecida en su cuenta Cybersource como Página de Respuesta a Transacción."
+"Webhook URL should be set in your Cybersource account as Transaction Response Page.","La URL del Webhook debe ser establecida en tu cuenta Cybersource como Página de Respuesta a Transacción."
 "Is admin panel works on the different domain?","¿Funciona el panel de administración en el dominio diferente?"
 "Admin Profile ID","Identificador de Perfil de Administrador"
 "Admin Access Key","Clave de Acceso de Admin"
@@ -4637,7 +4637,7 @@ Emails,"Correos electrónicos"
 "Deployment configuration file is not writable.","Archivo de configuración de implementación no es escribible."
 "Please enter an encryption key.","Por favor, introduce una clave de cifrado."
 "The encryption key has been changed.","Se cambió la clave de cifrado."
-"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Esta es su nueva clave de cifrado: %1. ¡Asegúrese de escribirlo y cuidar de él!"
+"This is your new encryption key: %1. Be sure to write it down and take good care of it!","Esta es tu nueva clave de cifrado: %1. ¡Asegúrate de escribirla y cuidarla!"
 "Manage Encryption Key","Administrar Encryption Key"
 "This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Esta es tu nueva clave de cifrado: <span style=""font-family:monospace;"">%1</span>. ¡Asegúrate de anotarla y cuidarla!"
 "Private Sales","Ventas privadas"
@@ -4691,7 +4691,7 @@ Station,Central
 "FedEx Tube","Tubo de FedEx"
 "FedEx 10kg Box","Caja de 10 Kg. de FedEx"
 "FedEx 25kg Box","Caja de 25 Kg. de FedEx"
-"Your Packaging","Su embalaje"
+"Your Packaging","Tu embalaje"
 "Not Required","No requerido"
 Adult,Adulto
 Direct,Directo
@@ -5092,7 +5092,7 @@ Location,Ubicación
 "Created For:","Creado para:"
 "You can create your own gift registry on <a href='%account_url'>%store_name</a> and share it with friends and family.","Puedes crear tu propio registro de regalo en <a href='%account_url'>%store_name</a> y compartirlo con amigos y familiares."
 "Gift Registry updated at %store_name","Registro de regalo actualizado en %store_name"
-"The following items have been purchased from your gift registry ""%registry_name"":","Los siguientes artículos han sido comprados de su registro de regalos ""%registry_name"":"
+"The following items have been purchased from your gift registry ""%registry_name"":","Los siguientes artículos han sido comprados de tu registro de regalos ""%registry_name"":"
 "You can sign in to your account to view more details about this gift registry.","Para ver más detalles sobre este registro de regalo accede a tu cuenta."
 "Ship to Recipient Address","Enviar a la dirección del destinatario"
 "Recipient Address","Dirección del destinatario"
@@ -5154,7 +5154,7 @@ Listed,Listado
 "Gift wrapping","Envoltura de regalo"
 "Printed card","Tarjeta impresa"
 "Gift receipt","Recibo de regalo"
-"Pick a paper of your choice (optional)","Escoge un papel de su elección (opcional)"
+"Pick a paper of your choice (optional)","Escoge un papel de tu elección (opcional)"
 "No image","Sin imagen"
 "Gift Receipt","Recibo de regalo"
 "Allow Gift Wrapping on Order Level","Permitir envoltura de regalo a nivel pedido"
@@ -5165,7 +5165,7 @@ Listed,Listado
 "Tax Class for Gift Options","Clase de impuesto para las opciones de regalo"
 "Display Gift Wrapping Prices","Mostrar precios de envoltura de regalo"
 "Display Printed Card Prices","Mostrar precios de tarjetas impresas"
-"Are you sure you want to delete the selected gift wrappings?","¿Está seguro que desea eliminar las envolturas de regalo seleccionado?"
+"Are you sure you want to delete the selected gift wrappings?","¿Seguro que deseas eliminar las envolturas de regalo seleccionadas?"
 "Gift Wrap Design","Diseño de envoltura de regalo"
 "Custom Price","Precio personalizado"
 Constant,Constante
@@ -5439,7 +5439,7 @@ Reauthorize,Reautorizar
 "Resource Access","Acceso a recursos"
 Resources,Recursos
 "Sorry, something went wrong. Please try again later.","Lo sentimos, algo salió mal. Por favor Inténtalo más tarde."
-"Popup Blocker is enabled! Please add this site to your exception list.","¡Bloqueador de ventanas emergentes está habilitado! Por favor agregue este sitio a su lista de excepción."
+"Popup Blocker is enabled! Please add this site to your exception list.","¡El bloqueador de ventanas emergentes está habilitado! Por favor agrega este sitio a tu lista de excepciones."
 Extensions,Extensiones
 "Access Token Expiration","Caducidad del token de acceso"
 "Customer Token Lifetime (hours)","Duración del Token del Cliente (horas)"
@@ -5908,7 +5908,7 @@ Qty:,Cant:
 deleted,eliminado
 "Renderer list for block ""%1"" is not defined","Lista de renderizadores para el bloque ""%1"" no está definida"
 "This quote is currently locked for editing. It will become available once released by the Merchant.","Este presupuesto está actualmente bloqueado para su edición. Estará disponible una vez que sea liberado por el Comerciante."
-"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Su pedido ha caducado y los precios de los productos se han actualizado con los últimos precios de su catálogo. Puede volver a enviar su pedido al vendedor para negociar o ir al pagar."
+"Your quote has expired and the product prices have been updated as per the latest prices in your catalog. You can either re-submit the quote to seller for further negotiation or go to checkout.","Tu pedido ha caducado y los precios de los productos se han actualizado con los últimos precios del catálogo. Puedes volver a enviar el pedido al vendedor para negociar o ir a pagar."
 "You are not an owner of this quote. You cannot edit it or take any actions on it.","No eres propietario de este pedido. No puedes editarlo o realizar acciones con él."
 "Estimated Tax","Impuestos estimados"
 "Quote Subtotal (Excl. Tax)","Subtotal (IVA no incluido)"
@@ -5930,7 +5930,7 @@ Quotes,Pedidos
 "An error occurred on the server. %1","Se ha producido un error en el servidor. %1"
 "This quote is currently locked for editing. It will become available once released by the buyer.","Este pedido esta actualmente bloqueado para su edición. Estará disponible cuando se envíe al comprador."
 "An error occurred while quote creation.","Se produjo un error al crear el pedido."
-"%1 products require your attention. Please contact the Seller if you have any questions.","%1 productos requieren su atención. Póngase en contacto con el vendedor si tienes alguna duda."
+"%1 products require your attention. Please contact the Seller if you have any questions.","%1 productos requieren tu atención. Ponte en contacto con el vendedor si tienes alguna duda."
 "You closed the quote.","Has cerrado el pedido."
 "We can't close the quote right now because of an error: %1.","No podemos cerrar el pedido en este momento debido a un error: %1."
 "We can't close the quote right now.","No podemos cerrar el pedido en este momento."
@@ -5987,7 +5987,7 @@ discount,descuento
 "Client reviewed","Cliente revisado"
 Submitted,Enviado
 Declined,Rechazado
-"Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Los precios del catalogo han cambiado. Puede que quiere reenviar su pedido. Los detalles sobre el cambio estarán en el historial."
+"Catalog prices have changed, and you may want to review the offer. Details about the changes are available in the History Log.","Los precios del catálogo han cambiado, y puede que quieras revisar la oferta. Los detalles sobre los cambios están disponibles en el historial."
 "The discount has changed for this quote. Check the History Log for details.","El descuento ha cambiado en el pedido. Comprueba el historial para ver los detalles."
 "The discount for this quote has been removed because the buyer has reached the maximum number of attempts to request a discount. You may want to review the offer amount.","El descuento para este pedido ha sido eliminado porque el comprador ha alcanzado el número máximo de intentos para solicitar un descuento. Puede que desee revisar la cantidad ofertada."
 "The discount for this quote has been removed because the cart rule has been deleted. You may want to review the offer amount.","El descuento para este pedido ha sido eliminado porque se ha eliminado la regla de carrito. Puede que desee revisar la cantidad de oferta."
@@ -5999,15 +5999,15 @@ Declined,Rechazado
 "has been deleted from the catalog. The items quoted list has been updated.","se ha eliminado del catálogo. La lista de productos ha sido actualizada."
 "have been deleted from the quote. You may want to review the offer amount.","ha sido eliminado del pedido. Puede que desee revisar el precio."
 "have been deleted from the catalog. The items quoted list has been updated.","se ha eliminado del catálogo. La lista de productos ha sido actualizada."
-"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Los precios del catalogo han cambiado. Puede que quiere reenviar su pedido. Los detalles sobre el cambio estarán en el historial."
-"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","El descuento para este presupuesto se eliminó porque ya ha utilizado su descuento en pedidos anteriores. Por favor, reenvíe el presupuesto al Vendedor para una negociación adicional."
+"Catalog prices have changed. You may want to re-submit this quote. Details about the changes are available in the History Log.","Los precios del catálogo han cambiado. Puede que quieras volver a enviar este presupuesto. Los detalles sobre los cambios están disponibles en el historial."
+"The discount for this quote has been removed because you have already used your discount on previous orders. Please re-submit the quote to the Seller for further negotiation.","El descuento para este presupuesto se eliminó porque ya has utilizado el descuento en pedidos anteriores. Por favor, reenvía el presupuesto al Vendedor para una negociación adicional."
 "The discount is no longer valid for this quote, and the prices have been updated. Please re-submit the quote to the Seller for further negotiation.","El descuento ya no es válido para este presupuesto, y los precios han sido actualizados. Vuelva a enviar el presupuesto al Vendedor para una negociación adicional."
 "Quote taxes have been recalculated because you have added or changed the shipping address. The negotiated price is no longer valid. Please re-submit the quote to Seller.","Los impuestos del presupuesto se han recalculado porque ha agregado o cambiado la dirección de envío. El precio negociado ya no es válido. Por favor, reenvíe el presupuesto al vendedor."
-"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Usted ha agregado o cambiado la dirección de envío en este presupuesto. Por favor, reenvíe el presupuesto al vendedor."
-"is no longer available in catalog. It was removed from your quote.","ya no está disponible en catálogo. Fue eliminado de su pedido."
-"are no longer available in catalog. They were removed from your quote.","ya no está disponible en catálogo. Fue eliminado de su pedido."
-"is no longer available. It was removed from your quote.","ya no está disponible en catálogo. Fue eliminado de su pedido."
-"are no longer available. They were removed from your quote.","ya no está disponible. Fue eliminado de su pedido."
+"You have added or changed the shipping address on this quote. Please re-submit the quote to Seller.","Has agregado o cambiado la dirección de envío en este presupuesto. Por favor, reenvía el presupuesto al vendedor."
+"is no longer available in catalog. It was removed from your quote.","ya no está disponible en el catálogo. Fue eliminado de tu pedido."
+"are no longer available in catalog. They were removed from your quote.","ya no están disponibles en el catálogo. Fueron eliminados de tu pedido."
+"is no longer available. It was removed from your quote.","ya no está disponible en el catálogo. Fue eliminado de tu pedido."
+"are no longer available. They were removed from your quote.","ya no estás disponible. Fueron eliminados de tu pedido."
 "The quote %quoteId is currently locked, and you cannot place an order from it at the moment.","El pedido %quoteId está bloqueado en este momento, y no se puede realizar el pedido en este momento."
 "The quote %quoteId is currently locked and cannot be closed.","El pedido %quoteId está actualmente bloqueado y no se puede cerrar."
 "Invalid attribute %fieldName: Cannot create a B2B Quote for an individual user. The user must be a company member. Row ID: %fieldName = %fieldValue","Atributo no válido %fieldName: No se puede crear un Presupuesto B2B para un usuario individual. El usuario debe ser miembro de la empresa. ID de fila: %fieldName = %fieldValue"
@@ -6099,7 +6099,7 @@ Expires:,Caduca:
 "Close quote","Cerrar presupuesto"
 "Quote Items","Lista del presupuesto"
 "No shipping information available.","No hay información disponible sobre el envío."
-"Your quote number is: %1.","Su número de pedido es: %1."
+"Your quote number is: %1.","Tu número de pedido es: %1."
 "The quote has been sent to the merchant.","El pedido se ha enviado al mercader."
 "Dear %merchant_name,","Estimado %merchant_name,"
 "New quote ","Nuevo pedido"
@@ -6120,7 +6120,7 @@ Expires:,Caduca:
 Ahora puede seleccionar la fecha de caducidad que desee."
 "Quote ","Pedido "
 " updated by buyer"," actualizado por el comprador"
-"The seller responded to your quote ","El vendedor respondió a su presupuesto "
+"The seller responded to your quote ","El vendedor respondió a tu presupuesto "
 "The Quote expires after ","La oferta expira después "
 "Item in Quote","Artículo en pedido"
 "Items in Quote","Artículos en el pedido"
@@ -6267,7 +6267,7 @@ Subscribe,Suscribirse
 "To begin receiving the newsletter, you must first confirm your subscription by clicking on the following link:","Antes de recibir los boletines, debes confirmar la suscripción haciendo clic en el siguiente enlace:"
 "Newsletter subscription success","Ha suscrito con éxito nuestro boletín informativo"
 "You have been successfully subscribed to our newsletter.","Te has suscrito correctamente a nuestro boletín."
-"Newsletter unsubscription success","Ha cancelado con éxito su suscripción al boletín informativo"
+"Newsletter unsubscription success","Has cancelado con éxito tu suscripción al boletín informativo"
 "You have been unsubscribed from the newsletter.","Has sido dado de baja de nuestro boletín."
 "Newsletter Template","Plantillas del boletín informativo"
 "Newsletter Section","Sección de boletín"
@@ -6448,12 +6448,12 @@ Help,Ayuda
 "We can't process Express Checkout approval.","No podemos procesar la aprobación de Express Checkout."
 "We can't initialize Express Checkout review.","No podemos inicializar la revisión de Checkout Express."
 "We can't start Express Checkout.","No podemos iniciar Express Checkout."
-"To check out, please sign in with your email address.","Para efectuar el check out, por favor inicie sesión con su cuenta de email."
+"To check out, please sign in with your email address.","Para pagar, por favor accede con tu dirección de correo electrónico."
 "Requested payment method does not match with order.","La forma de pago seleccionada no coincide con el pedido."
 "Would you like to sign a billing agreement to streamline further purchases with PayPal?","¿Te gustaría firmar un contrato de facturación para agilizar tus futuras compras con PayPal?"
 "Payment Gateway is unreachable at the moment. Please use another payment option.","La pasarela de pago está inaccesible en este momento. Por favor utilice otro método de pago."
 "PayPal response hasn't required fields.","La respuesta de PayPal no tiene campos obligatorios."
-"Something went wrong while processing your order.","Algo salió mal durante el procesamiento de su pedido."
+"Something went wrong while processing your order.","Algo salió mal durante el procesamiento del pedido."
 "PayPal gateway has rejected request. %1","La puerta de enlace de PayPal ha rechazado la solicitud. %1"
 "The PayPal gateway rejected the request. %1","La pasarela de PayPal rechazó la petición. %1"
 "I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.","Lo sentimos, pero no hemos podido procesar tu pago. Por favor, introduce otro método de pago o ponte en contacto con nosotros si necesitas ayuda."
@@ -6696,9 +6696,9 @@ Void,Nulo
 here,aquí
 " to learn more."," para obtener más información."
 "Important: ","Wichtig: "
-"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","Para usar PayPal Payments Advanced, debe configurar su cuenta de PayPal Payments Advanced en el sitio web de PayPal."
+"To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","Para usar PayPal Payments Advanced, debes configurar tu cuenta de PayPal Payments Advanced en el sitio web de PayPal."
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Nachdem Sie in Ihr erweitertes PayPal-Konto eingeloggt sind, navigieren Sie zum Menü Service-Einstellungen - gehostete Checkout-Seiten  - Set Up-Menü und legen Sie die unten beschriebenen Optionen an"
-"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para utilizar PayPal Payflow Link, debe configurar su cuenta de PayPal Payflow Link en la Web de PayPal."
+"To use PayPal Payflow Link, you must configure your PayPal Payflow Link account on the PayPal website.","Para utilizar PayPal Payflow Link, debes configurar tu cuenta de PayPal Payflow Link en la Web de PayPal."
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Nachdem Sie in Ihr Konto PayPal Payflow Link eingeloggt sind, navigieren Sie zum Menü Service-Einstellungen - gehostete Checkout-Seiten  - Set Up-Menü und legen Sie die unten beschriebenen Optionen an"
 "Billing Agreement # ","Acuerdo de facturación n.º "
 "Agreement Information","Información del acuerdo"
@@ -6729,7 +6729,7 @@ Create...,Crear...
 "Sign a billing agreement to streamline further purchases  with PayPal.","Firma un acuerdo de facturación para agilizar futuras compras con PayPal."
 "Sign a billing agreement to streamline further purchases with PayPal.","Firma un acuerdo de facturación para agilizar futuras compras con PayPal."
 "Continue to PayPal","Continuar en PayPal"
-"Save credit card information for future use.","Guarde la información de su tarjeta de crédito para usarla en el futuro."
+"Save credit card information for future use.","Guarda la información de tu tarjeta de crédito para usarla en el futuro."
 "Sorry, something went wrong.","Lo sentimos, algo salió mal."
 "PayPal Section","Sección de PayPal"
 "PayPal Settlement","Liquidación de PayPal"
@@ -6743,16 +6743,16 @@ Manage,Administrar
 "PayPal Express Checkout","Pago exprés de PayPal"
 "Add another payment method to your existing solution or as a stand-alone option.","Añada otro método de pago a sus actuales soluciones o como una opción independiente."
 "PayPal All-in-One Payment Solutions&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluciones de pago todo en uno de PayPal&nbsp;<i>Acepte y procese tarjetas de crédito y pagos de PayPal.</i>"
-"Choose a secure bundled payment solution for your business.","Elija una solución de pago por lotes segura para su empresa."
+"Choose a secure bundled payment solution for your business.","Elige una solución de pago por lotes segura para tu empresa."
 "Payments Pro and Express Checkout","Payments Pro y Pago exprés"
 "Basic Settings - PayPal Payments Pro","Ajustes básicos: PayPal Payments Pro"
-"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Pasarelas de pago de PayPal&nbsp;<i>Procese los pagos utilizando su propia cuenta mercantil de Internet.</i>"
+"PayPal Payment Gateways&nbsp;<i>Process payments using your own internet merchant account.</i>","Pasarelas de pago de PayPal&nbsp;<i>Procesa los pagos utilizando tu propia cuenta mercantil de Internet.</i>"
 "PayPal All-in-One Payment Solutions&nbsp;&nbsp;<i>Accept and process credit cards and PayPal payments.</i>","Soluciones de pago todo en uno de PayPal&nbsp;&nbsp;<i>Acepte y procese tarjetas de crédito y pagos de PayPal.</i>"
 "Accept payments with a completely customizable checkout page.","Acepta pagos con una página de procesos de compra en línea completamente personalizable."
-"Process payments using your own internet merchant account.","Procese pagos mediante su propia cuenta de minorista en internet."
+"Process payments using your own internet merchant account.","Procesa pagos mediante tu propia cuenta de minorista en internet."
 "Website Payments Pro","Pagos web Pro"
 "Express Checkout","Paso por Caja Express"
-"Add PayPal as an additional payment method to your checkout page.","Añada PayPal como método de pago adicional a su página de procesos de compra en línea."
+"Add PayPal as an additional payment method to your checkout page.","Añade PayPal como método de pago adicional a tu página de pago."
 "Required PayPal Settings","Configuración obligatoria de PayPal"
 "Email Associated with PayPal Merchant Account (Optional)","Correo electrónico asociado con la cuenta de minorista de PayPal (opcional)"
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">¡Comienza a aceptar pagos a través de PayPal!</a>"
@@ -6783,7 +6783,7 @@ Display,Mostrar
 "Order Valid Period (days)","Período válido del pedido (días)"
 "Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Especifica cuál es el período de validez del pedido de la cuenta de PayPal del comerciante. Tiene que ser igual a la configuración de PayPal."
 "Number of Child Authorizations","Número de autorizaciones infantiles"
-"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","El número de autorizaciones infantiles por defecto de su cuenta de PayPal es 1. Para tener autorizaciones múltiples, póngase en contacto con PayPal para solicitar un aumento."
+"The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","El número de autorizaciones infantiles por defecto de tu cuenta de PayPal es 1. Para tener autorizaciones múltiples, ponte en contacto con PayPal para solicitar un aumento."
 "Payment Applicable From","Pago posible desde"
 "Countries Payment Applicable From","Países desde los que es posible el pago"
 "Debug Mode","Modo depuración"
@@ -6821,12 +6821,12 @@ Display,Mostrar
 "2-pixel perimeter around the header space.","Perímetro de 2 píxeles alrededor del espacio de cabera."
 "Page Background Color","Color del fondo de página"
 "Payments Advanced","Pagos avanzados"
-"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Acepta pagos con una extracción compatible con PCI que mantiene a los clientes en su sitio. (<u>Incluye Express Checkout</u>)"
+"Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Acepta pagos con un proceso de pago compatible con PCI que mantiene a los clientes en tu sitio. (<u>Incluye Express Checkout</u>)"
 "Payments Advanced and Express Checkout","Pago avanzado y Express Checkout"
 Partner,Socio
 Vendor,Vendedor
-"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal recomienda que configure otro usuario en su cuenta en manager.paypal.com"
-"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recomienda que configure otro usuario en su cuenta en manager.paypal.com, en lugar de introducir su nombre de usuario de administrador y su contraseña aquí. Esto mejorará el grado de seguridad y evitará interrupciones del servicio si cambia la contraseña posteriormente. Si no desea configurar otro usuario, puede volver a introducir su nombre de usuario minorista aquí."
+"PayPal recommends that you set up an additional User on your account at manager.paypal.com","PayPal recomienda que configures otro usuario en tu cuenta en manager.paypal.com"
+"PayPal recommends you set up an additional User on your account at manager.paypal.com, instead of entering your admin username and password here. This will enhance your security and prevent service interruptions if you later change your password. If you do not want to set up an additional User, you can re-enter your Merchant Login here.","PayPal recomienda que configures otro usuario en su cuenta en manager.paypal.com, en lugar de introducir tu nombre de usuario de administrador y contraseña aquí. Esto mejorará el grado de seguridad y evitará interrupciones del servicio si cambia la contraseña posteriormente. Si no deseas configurar otro usuario, puedes volver a introducir tu nombre de usuario minorista aquí."
 "Use Proxy","Utilizar Proxy"
 "<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
@@ -6841,14 +6841,14 @@ Vendor,Vendedor
 "Send Email Confirmation","Enviar confirmación por correo electrónico"
 "URL method for Cancel URL and Return URL","Método de URL para URL de cancelación y URL de retorno"
 "Payflow Link","Enlace de Payflow"
-"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Conecte su cuenta de comerciante con una puerta de enlace compatible con PCI que permita a los clientes pagar sin salir de su sitio. (<u>Incluye Pago exprés</u>)"
+"Connect your merchant account with a PCI-compliant gateway that lets customers pay without leaving your site. (<u>Includes Express Checkout</u>)","Conecta tu cuenta de comerciante con una puerta de enlace compatible con PCI que permita a los clientes pagar sin salir de tu sitio. (<u>Incluye Pago exprés</u>)"
 "Payflow Link and Express Checkout","Payflow Link y Express Checkout"
 "If you do not have multiple users set up on your account, please re-enter your Vendor/Merchant Login here.","Si no has configurado varios usuarios en tu cuenta, vuelve a introducir el nombre de usuario del vendedor/comerciante aquí."
 "Enable Payflow Link","Habilitar el enlace de Payflow"
 "Enable Express Checkout","Habilitar el pago exprés"
 "Basic Settings - PayPal Payflow Link","Ajustes básicos: Enlace de PayPal Payflow"
 "Website Payments Pro Hosted Solution","Solución Hospedada de Pagos Web Pro"
-"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Acepte pagos con un pago compatible con PCI que mantenga a los clientes en su sitio. (<u>Incluye Pago exprés</u>)"
+"Accept payments with a PCI compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Acepta pagos con un proceso de pago compatible con PCI que mantenga a los clientes en tu sitio. (<u>Incluye Pago exprés</u>)"
 "Payments Pro Hosted Solution","Solución alojada de Payments Pro"
 "Basic Settings - PayPal Payments Pro Hosted Solution","Ajustes básicos: Solución alojada de Payments Pro de PayPal"
 "Display Express Checkout in the Payment Information step","Mostrar pago exprés en la pantalla de información del pago"
@@ -7097,7 +7097,7 @@ Carts,Carritos
 "Sorry, we had a problem loading our “What’s new” content.","Lo sentimos, tuvimos un problema al cargar nuestro contenido ""Novedades""."
 "This rule is assigned to %1 automated reminder rule(s). Deleting this rule will automatically unassign it.","Esta regla se asigna a %1 regla(s) automatizada(s) de recordatorio. Eliminar esta regla cancelará automáticamente su asignación."
 "Automated Email Marketing Reminder Rules","Reglas de Email Marketing de Recordatorio Automatizado"
-"Are you sure you want to match this rule now?","¿Está seguro de que desea aplicar esta regla ahora?"
+"Are you sure you want to match this rule now?","¿Estás seguro de que deseas aplicar esta regla ahora?"
 "No more than %1 customers may receive the reminder email after this action.","No más de %1 clientes pueden recibir el email de recordatorio después de esta acción."
 "Run Now","Ejecutar ahora"
 "Email Reminder Rule","Regla de correo electrónico recordatorio"
@@ -7302,7 +7302,6 @@ Statistics,Estadísticas
 "Number of Wish List referrals: %1","Número de referidos en listas de deseos: %1"
 "Number of Wish List conversions: %1","Número de conversiones en listas de deseos: %1"
 "Show Report For:","Mostrar informe para:"
-"All Websites","Todos sitios web"
 "Products in Cart","Productos en carrito"
 "Abandoned Cart","Carritos abandonados"
 "Search Terms","Términos de búsqueda"
@@ -7565,7 +7564,7 @@ Points,Puntos
 "Email Notification Settings","Configuración de notificación de email"
 "Save Subscription Settings","Guardar configuración de suscripción"
 "Reward Points Balance Updated at %store_name","Saldo de puntos de recompensa actualizado en %store_name"
-"You have %points_balance points that may be used in our store:","Usted tienes puntos de %points_balance que pueden usarse en nuestra tienda:"
+"You have %points_balance points that may be used in our store:","Tienes %points_balance puntos que pueden usarse en nuestra tienda:"
 "<a href=""%unsubscription_url"">Unsubscribe</a> from these notifications.","Puede <a href=""%unsubscription_url"">cancelar la suscripción</a> de las notificaciones."
 "Reward Points Expiry Warning at %store_name","Puntos de recompensa Aviso de vencimiento en %store_name"
 "There are %remaining_days day(s) remaining to use %points_expiring of your reward points.","Quedan %remaining_days días restantas para usar %points_expiring de sus puntos de recompensa."
@@ -7625,7 +7624,7 @@ Returns,Devueltos
 "Please Select Order","Por favor, seleccione el pedido"
 "Grand Total (Base)","Gran Total (Base)"
 "Grand Total (Purchased)","Gran Total (comprado)"
-"Are you sure you want to close this returns request?","¿Está seguro que desea cerrar esta solicitud de devolución?"
+"Are you sure you want to close this returns request?","¿Seguro que deseas cerrar esta solicitud de devolución?"
 "Return #%1 - %2","Devolución n.º %1 - %2"
 "RMA Item Details","Detalles del artículo RMA"
 "Submit Comment","Enviar comentario"
@@ -7639,7 +7638,7 @@ Returned,Devuelto
 Resolution,Resolución
 Split,Dividir
 "Return Information","Información de devolución"
-"You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Optó por cambiar la status(es) de las solicitudes RMA seleccionadas para cerrar. ¿Está seguro que desea proceder?"
+"You have chosen to change status(es) of the selected RMA requests to Close. Are you sure you want to continue?","Has elegido cambiar los estados de las solicitudes RMA seleccionadas a Cerrar. ¿Seguro que deseas proceder?"
 "Return Item Attribute","Atributo de artículo de devolución"
 "Edit Return Item Attribute ""%1""","Editar atributo de artículo de devolución ""%1"""
 "New Return Item Attribute","Nuevo atributo del elemento de devolución"
@@ -7690,7 +7689,7 @@ Split,Dividir
 "We can't save this RMA.","No podemos guardar este RMA."
 "You saved the RMA request.","Guardó la solicitud RMA."
 "You did not email your customer. Please check your email settings.","No has enviado un correo electrónico a tu cliente. Por favor, comprueba la configuración del correo electrónico."
-"You submitted the RMA request.","Usted presentó la solicitud RMA."
+"You submitted the RMA request.","Has enviado la solicitud RMA."
 "No items for bundle product","No hay artículos para paquete de producto"
 "The wrong order ID or item ID was requested.","Se pidió el ID de pedido o el ID de artículo incorrectos."
 "Shipping Labels are not allowed.","No se permiten etiquetas de envío."
@@ -7798,7 +7797,7 @@ Package,Paquete
 Length,Longitud
 "Total Weight","Peso total"
 "Items in the Package","Artículos en el paquete"
-"Are you sure you want to delete this tracking information?","¿Está seguro que desea eliminar esta información de seguimiento?"
+"Are you sure you want to delete this tracking information?","¿Seguro que deseas eliminar esta información de seguimiento?"
 "Request Information","Solicitar información"
 "Date Requested","Fecha de solicitud"
 "Shipping and Tracking Information","Información de envío y seguimiento"
@@ -8030,7 +8029,7 @@ Unassign,"Sin asignar"
 "View Memo for #%1","Ver rectificativa para n.º %1"
 "View Memo","Ver rectificativa"
 "You voided the credit memo.","Se anula la factura rectificativa."
-"We can't void the credit memo.","No podemos anular la factura rectificada."
+"We can't void the credit memo.","No podemos anular la factura rectificativa."
 "The order no longer exists.","Este pedido ya no existe."
 "We can't create credit memo for the order.","No podemos crear una factura rectificativa para este pedido."
 "Edit Order","Editar pedido"
@@ -8607,8 +8606,8 @@ Se aplica un límite de uso únicamente para los usuarios que inician sesión.
 "You saved the scheduled report.","Ha guardado el informe programado."
 "You deleted the scheduled import.","Eliminó la importación programada."
 "You deleted the scheduled export.","Eliminó la exportación programada."
-"Are you sure you want to delete this scheduled import?","¿Está seguro que desea eliminar esta importación programada?"
-"Are you sure you want to delete this scheduled export?","¿Está seguro que desea eliminar esta exportación programada?"
+"Are you sure you want to delete this scheduled import?","¿Seguro que deseas eliminar esta importación programada?"
+"Are you sure you want to delete this scheduled export?","¿Seguro que deseas eliminar esta exportación programada?"
 "We were unable to save the cron expression.","Fuimos incapaces de guardar la expresión cron."
 "Unable to delete the cron task.","No se puede borrar la tarea programada."
 "Please correct the cron job task","Por favor corregir la tarea de cron"
@@ -8653,7 +8652,7 @@ Successful,Correcto
 "Search Synonyms","Buscar sinónimos"
 "New Synonym Group","Nuevo grupo de sinónimos"
 "Delete Synonym Group","Eliminar grupo de sinónimos"
-"Are you sure you want to delete this synonym group?","¿Está seguro que desea eliminar este grupo de sinónimos?"
+"Are you sure you want to delete this synonym group?","¿Seguro que deseas eliminar este grupo de sinónimos?"
 "Save Synonym Group","Guardar grupo de sinónimos"
 "Save Search","Guardar búsqueda"
 "Delete Search","Borrar búsqueda"
@@ -8766,7 +8765,7 @@ Exception.,Excepción.
 "Catalog Structure","Estructura del catálogo"
 "Catalog Id","Id de Catálogo"
 "Store Id","Id de la tienda"
-"This action cannot be undone. Are you sure you want to delete this catalog?","Esta acción no se puede deshacer. ¿Está seguro que desea eliminar este catálogo?"
+"This action cannot be undone. Are you sure you want to delete this catalog?","Esta acción no se puede deshacer. ¿Seguro que deseas eliminar este catálogo?"
 "Linked Products","Productos enlazados"
 Pricing,Precios
 "Shared Catalogs","Configurar catálogos"
@@ -8862,7 +8861,7 @@ Assigned,Asignado
 "Change Catalog Type?","¿Cambiar tipo de catálogo?"
 "A public shared catalog already exists. If you proceed, the existing public shared catalog will be converted to a custom catalog. All the companies defined in the existing public shared catalog will be re-assigned to the new public shared catalog.","Ya existe un catálogo público compartido. Si continúa, el catálogo compartido público existente se convertirá en un catálogo personalizado. Todas las empresas definidas en el catálogo público compartido existente se reasignarán al nuevo catálogo público compartido."
 "Add Shared Catalog","Añadir Catálogo Compartido"
-"This action cannot be undone. Are you sure you want to delete this catalog(s)?","Esta acción no se puede deshacer. ¿Está seguro de que desea eliminar este catálogo(s)?"
+"This action cannot be undone. Are you sure you want to delete this catalog(s)?","Esta acción no se puede deshacer. ¿Seguro de que deseas eliminar este catálogo(s)?"
 discount-prompt,descuento-sugerido
 "This discount will be applied to all selected products. The custom price type will be set to 'Discount'.","Este descuento se aplicará a todos los productos seleccionados. El tipo de precio personalizado se establecerá en ""Descuento""."
 "Set Discount","Establecer Descuento"
@@ -9121,7 +9120,7 @@ Layouts,Diseños
 "Backup Log Details","Detalles de registro de Backup"
 "Requested system report has no data to output.","El reporte de sistema solicitado no tiene datos para salida."
 "&copy; Magento Commerce Inc., %1","© Magento Commerce Inc., %1"
-"Are you sure you want to delete the system report?","¿Está seguro que desea eliminar el informe de sistema?"
+"Are you sure you want to delete the system report?","¿Seguro que deseas eliminar el informe de sistema?"
 "Go to Top","Ir a la parte superior"
 "System Report Information","Información de reporte de sistema"
 "Requested system report has no data to display.","El reporte de sistema solicitado no tiene datos para mostrar."
@@ -9516,7 +9515,7 @@ State/Region,Estado/Región
 "Save and Continue","Guardar y Continuar"
 "Save Configuration","Guardar configuración"
 Themes,Temas
-"Are you sure you want to delete this theme?","¿Está seguro de que desea eliminar este tema?"
+"Are you sure you want to delete this theme?","¿Seguro de que deseas eliminar este tema?"
 "Theme: %1","Tema: %1"
 "Theme CSS","Tema CSS"
 "Theme CSS Assets","Recursos CSS del tema"
@@ -10447,7 +10446,7 @@ Refused,Rechazado
 Authorised,Autorizado
 Captured,Capturado
 "Please click ","Por favor, haga clic en "
-" if you are not redirected automatically."," si usted no es redirigido automáticamente."
+" if you are not redirected automatically."," si no eres redirigido automáticamente."
 "You will be redirected to the Worldpay website.","Serás redirigido a la página web de Worldpay."
 "Continue to Worldpay","Continuar a Worldpay"
 "Payment Response Password","Contraseña de respuesta de pago"
@@ -10460,7 +10459,7 @@ Captured,Capturado
 "Payment From Applicable Countries","Pago desde países aceptados"
 "Payment From Specific Countries","Pago desde países específicos"
 "Set Order Status to Suspected Fraud for CVV","Establecer el estado del pedido a Sospecha de Fraude por CVV"
-"Set Order Status to Suspected Fraud for Postcode AVS","Establecer el estado de la orden a Sospecha de Fraude por CVV"
+"Set Order Status to Suspected Fraud for Postcode AVS","Establecer el estado del pedido a Sospecha de Fraude por CVV"
 "Payment was canceled.","El pago fue cancelado."
 "Your payment has been successfully processed by our shop system.","Su pago se ha procesado con éxito por nuestro sistema de tienda."
 "Payment was canceled","Pago fue cancelado"
