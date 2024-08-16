@@ -4,6 +4,7 @@ None,Ninguno
 "You need more permissions to delete this item(s): %1.","Necesitas más permisos para eliminar este artículo(s): %1."
 "You need more permissions to apply some of the rule updates.","Necesitas más permisos para aplicar algunas de las actualizaciones de las reglas."
 "Please assign this entity to a store view.","Por favor, asigne esta entidad a una vista de tienda."
+"Incorrect website ID: %1","ID del sitio web incorrecto: %1"
 "You need more permissions to access website ""%1"".","Necesitas más permisos para acceder al sitio web ""%1""."
 "Role Scopes","Alcance del Role"
 Custom,Personalizado
