@@ -7052,6 +7052,7 @@ Duration:,Duración:
 "Cart contains virtual product(s) only. Shipping method is not applicable.","El carrito solo contiene productos virtuales. El método de envío no es aplicable."
 Carts,Carritos
 "Manage carts","Administrar carritos"
+"The coupon code isn't valid. Verify the code and try again.","El código de cupón no es válido. Comprobar el código y vuelva a intentarlo."
 "Shopping cart error: %message","Error del carrito de compras: %message"
 "Could not find a product with SKU ""%sku""","No se pudo encontrar un producto con el SKU ""%sku"""
 "Could not add the product with SKU %sku to the shopping cart: %message","No se pudo añadir el producto con SKU %sku al carrito de compras: %mensaje"
